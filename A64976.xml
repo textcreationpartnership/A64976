@@ -1,0 +1,1069 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The young gallant's academy, or, Directions how he should behave himself in all places and company as in an ordinary, in a play-house, in a tavern, as he passes along the street all hours of the night, and how to avoid constables interrogatories : to which is added, the character of a town-huff : together with the character of a right generous and well-bred gentleman / by Sam. Overcome.</title>
+            <author>Vincent, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64976</idno>
+            <idno type="STC">Wing V426</idno>
+            <idno type="STC">ESTC R22643</idno>
+            <idno type="EEBO-CITATION">12621770</idno>
+            <idno type="OCLC">ocm 12621770</idno>
+            <idno type="VID">64540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The young gallant's academy, or, Directions how he should behave himself in all places and company as in an ordinary, in a play-house, in a tavern, as he passes along the street all hours of the night, and how to avoid constables interrogatories : to which is added, the character of a town-huff : together with the character of a right generous and well-bred gentleman / by Sam. Overcome.</title>
+                  <author>Vincent, Samuel.</author>
+                  <author>Dekker, Thomas, ca. 1572-1632.</author>
+               </titleStmt>
+               <extent>[20], 100 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for R. Mills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Epistle dedicatory signed: Sam. Vincent.</note>
+                  <note>Sam Overcome is Samuel Vincent's pseudonym.</note>
+                  <note>Largely drawn from Dekker's Gull's horn-book, 1609.</note>
+                  <note>Table of contents: [17]-[20]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English literature --  Great Britain --  Anecdotes</term>
+               <term>English literature --  Great Britain --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64540:1" rendition="simple:additions"/>
+            <pb facs="tcp:64540:1" rendition="simple:additions"/>
+            <pb facs="tcp:64540:2"/>
+            <pb facs="tcp:64540:2"/>
+            <p>THE YOUNG GALLANT'S Academy.</p>
+            <p>OR, Directions how he ſhould be<g ref="char:EOLhyphen"/>have himſelf in all Places and Company.</p>
+            <p>As,
+<list>
+                  <item>1. In an Ordinary.</item>
+                  <item>2. In a Play-houſe.</item>
+                  <item>3. In a Tavern.</item>
+                  <item>4. As he paſſes along the Street all hours of the Night.</item>
+                  <item>5. And how to avoid Conſtables Interrogatories.</item>
+               </list>
+            </p>
+            <p>To which is added, The Character of a Town-HUFF.</p>
+            <p>TOGETHER WITH The CHARACTER of a right Generous and well-bred GENTLEMAN.</p>
+            <p>By <hi>Sam. Overcome.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> for <hi>R. Mills,</hi> at the <hi>Peſtle</hi> and <hi>Mortar</hi> without <hi>Temple-Bar.</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64540:3"/>
+            <pb facs="tcp:64540:3"/>
+            <head>TO The truly vertuous Lo<g ref="char:EOLhyphen"/>ver and Incourager of Learning and Ingenuity <hi>George Doddington</hi> Eſq.</head>
+            <p>
+               <hi>FLattery</hi> and <hi>Ingrati<g ref="char:EOLhyphen"/>tude</hi> I have always e<g ref="char:EOLhyphen"/>ſteemed ſo much unbecom<g ref="char:EOLhyphen"/>ing a Perſon that hath that Noble Faculty of the Soul <hi>Reaſon,</hi> that he that ſhould be guilty of either of them, is not fit for, or ought to be admitted into humane Socie<g ref="char:EOLhyphen"/>ty. For what can we do
+<pb facs="tcp:64540:4"/> with, or know we how to deal with theſe deformed A<g ref="char:EOLhyphen"/>nimals; the one wheadles Gentlemen out of their E<g ref="char:EOLhyphen"/>ſtates, with their Proteſtati<g ref="char:EOLhyphen"/>ons and fair pretences; the o<g ref="char:EOLhyphen"/>ther laughs at us when he hath got his ends: and though you have but immediately be<g ref="char:EOLhyphen"/>fore relieved him with mony out of your purſe, the ſame perſon ſhall be glad to ſee you in a Goal. But give me leave to teſtifie to the world, that you have neither been an Admirer or Cheriſher o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe foul (but now too-much-adored) Monſters. And I my ſelf have been ſo fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:64540:4"/> from doating on them, that having ſerved under the Co<g ref="char:EOLhyphen"/>lours of that excellent, but now deſpiſed Lady, <hi>Good Na<g ref="char:EOLhyphen"/>ture,</hi> I am not in ſo good an Equipage as when I firſt en<g ref="char:EOLhyphen"/>tered my ſelf into her Ser<g ref="char:EOLhyphen"/>vice. But now leſt I my ſelf, whileſt I am rayling upon this ſort of Creatures, ſhould be thought to be a <hi>Wolf</hi> in <hi>Sheeps Cloathing,</hi> and a <hi>Lyon</hi> under a <hi>Lambs</hi> skin: Be not angry with me if I tell you, the former Obligations and Favours you conferred upon me, imboldened me thus to attempt: and I ſhould be in<g ref="char:EOLhyphen"/>grateful indeed, ſhould I not
+<pb facs="tcp:64540:5"/> endeavour ſome ſmall Retali<g ref="char:EOLhyphen"/>ations. I have therefore put into your hands a homely piece of Work, neither ſo good as you deſerve, nor ſo rich as I do wiſh it: I muſt entreat you to blame the va<g ref="char:EOLhyphen"/>nity of our Age and Times, which are ſo fantaſtical grown, that they covet Stuffs rather ſlight to feed the eye with ſhew, than ſubſtantial for enduring: let the <hi>Faſhi<g ref="char:EOLhyphen"/>on</hi> be <hi>Frencb,</hi> 'tis no matter what the <hi>Cloath</hi> be. I have therefore not (with the Stur<g ref="char:EOLhyphen"/>geon) ſwam againſt the Stream, but followed the hu<g ref="char:EOLhyphen"/>morous Tides of this Age,
+<pb facs="tcp:64540:5"/> &amp; like <hi>Democritus</hi> have faln a laughing at all the world, ſee<g ref="char:EOLhyphen"/>ing it doth nothing but mock it ſelf. Sir, you have here the behaviour and Character of a <hi>Fop</hi> compoſed, to ſhew the Apiſh Faſhions, and ridicu<g ref="char:EOLhyphen"/>lous Humors and Converſa<g ref="char:EOLhyphen"/>tions of ſome of our Town-Gallants, of whoſe Actions you are ſo far from being an Admirer and Imitator, that while they are ſwallowing down the ſweet morſels of Sin, and in the midſt of <hi>Re<g ref="char:EOLhyphen"/>velling,</hi> courting their <hi>Mi<g ref="char:EOLhyphen"/>ſtreſſes</hi> (as their Gentile word is) and inventing <hi>New Oaths</hi> for to be able to keep Com<g ref="char:EOLhyphen"/>pany
+<pb facs="tcp:64540:6"/> with only ſuch as them<g ref="char:EOLhyphen"/>ſelves; and whileſt they ſtudy the very height of Debauche<g ref="char:EOLhyphen"/>ry, and account him a boon Companion that is moſt viti<g ref="char:EOLhyphen"/>ous, You are taken up in a far more Noble Exerciſe, and ſpend your ſpare hours in reading <hi>Hiſtory;</hi> and for the laying out a little mony, re<g ref="char:EOLhyphen"/>ceive a larger intereſt than the greateſt Uſurers do for their money: by looking on thoſe Proſpective-glaſſes, you behold Kingdoms and People afar off, come acquainted with their Manners, their Po<g ref="char:EOLhyphen"/>licies, their Government, their Riſings and their Downfals:
+<pb facs="tcp:64540:6"/> You are preſent at their Bat<g ref="char:EOLhyphen"/>tles without danger to your ſelf, unleſs it is in grieving to ſee States ſo overthrown by the mutability of For<g ref="char:EOLhyphen"/>tune: you ſee thoſe Empires utterly brought to ſubver<g ref="char:EOLhyphen"/>ſion, which had been Terrors and Triumphers over all Na<g ref="char:EOLhyphen"/>tions upon Earth. Oh <hi>Hiſto<g ref="char:EOLhyphen"/>ries!</hi> You Sovereign Balms to the Bodies of the Dead, that preſerve them more freſh than if they were alive, keep the Fames of Princes from periſhing, when Marble Mo<g ref="char:EOLhyphen"/>numents cannot ſave their bones from being rotten; you faithful Intelligencers be<g ref="char:EOLhyphen"/>tween
+<pb facs="tcp:64540:7"/> Kingdoms, you trueſt Counſellors to Kings, even in greateſt dangers, be not angry with me if I am ſomething tedious in ſetting forth the excellencie of your delight <hi>(Hiſtory)</hi> Happy you are by Birth, happy by your bring<g ref="char:EOLhyphen"/>ing up; but moſt happy, in that the <hi>Muſes</hi> too have been your Darling. The Path which true Nobleneſs had wont and ought to tread, lies directly before you; you have been ever, and are now in the way, which imboldens me to preſume, that as our great<g ref="char:EOLhyphen"/>eſt Commanders will not diſ<g ref="char:EOLhyphen"/>dain to inſtruct even a freſh<g ref="char:EOLhyphen"/>watered
+<pb facs="tcp:64540:7"/> Souldier in the School. points of VVar; ſo out of your generous diſpoſition, you will vouchſafe to view the labour of ſo dull a Pen, and not cenſure me for conſe<g ref="char:EOLhyphen"/>crating ſo idle a Pamphlet to you. And ſay not that the world will take you to be of that number that deſire to have your Name in print only to get a vain Reputation, and that by the ſuperfluities of ſo idle a brain as mine; No Sir, 'tis a piece of <hi>Drollery,</hi> I con<g ref="char:EOLhyphen"/>feſs, but not deſigned nor writ to droll upon you, but only to let the world ſee that you are of ſo ſedentary and reti<g ref="char:EOLhyphen"/>red
+<pb facs="tcp:64540:8"/> a Nature and Converſa<g ref="char:EOLhyphen"/>tion, that it is requiſite for your divertiſement to view the Fopperies of this Age. If you give entertainment to this in your beſt affection, you will bind me (one day) to heighten your Name, when by ſome more worthy. Co<g ref="char:EOLhyphen"/>lumn I ſhall Conſecrate that and your ſelf to an Everlaſt<g ref="char:EOLhyphen"/>ing and Sacred Memory, moſt affectionately deſirous to be</p>
+            <closer>
+               <signed>Yours, SAM. VINCENT.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64540:8"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O come to the preſs, is more than to be preſſed to death: for the pain of thoſe Tortures laſt but a few minutes; but he that lies upon the Rack in Print, hath his fleſh torn off by the Teeth of</hi> Envy <hi>and</hi> Calumny, <hi>though he means no Perſon any harm. I think therefore 'twere better to make ten</hi> Challenges <hi>at all</hi> manner of Weapons, <hi>than to play a</hi> Scho<g ref="char:EOLhyphen"/>lars Prize <hi>upon a Book-ſellers Stall: for the one araws but Blood, by the
+<pb facs="tcp:64540:9"/> other a man is drawn and quartered. Take heed of</hi> Criticks, <hi>they bite like Fiſh at any thing, eſpecially at Books; nay, the Stationers them<g ref="char:EOLhyphen"/>ſelves are turned</hi> Demi-Criticks. <hi>Go to one and offer a Copy; if it be merry, the man likes no light ſtuff; if it be ſad, it will not ſell: ano<g ref="char:EOLhyphen"/>ther meddles with nothing but what fits the times. I would have his Shop filled with nothing but</hi> Gazets <hi>and</hi> Proclamations. <hi>Since therefore that neither hot nor cold can pleaſe, neither ſtrait nor crook<g ref="char:EOLhyphen"/>ed can ſerve as a meaſure to ſome mouths; what a miſerable and endleſs labour does he undertake, that in a few ſcribled Sheets hopes to wrap up the Loves of all men? Better it were for him in my Judg<g ref="char:EOLhyphen"/>ment to turn his Leaves into ſuch</hi> Pa<g ref="char:EOLhyphen"/>per-Kites <hi>as Boys run after whileſt they fly in the Air, than to publiſh his Wits in Print, and yet be count<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:64540:9"/> but a</hi> Fool <hi>for his</hi> Labour. <hi>Yet notwithſtanding with ſuch a tick<g ref="char:EOLhyphen"/>ling</hi> Itch <hi>is this Printed</hi> Ambition <hi>troubled, that ſome are never at better eaſe than when they are</hi> ſcratching <hi>upon Paper. Of thoſe ſharp-toothed Dogs you ſhall find me none. I hold no whip in my hand, but rather a ſoft</hi> Feather; <hi>and there drops rather Water than Gall out of my Quill. I have on<g ref="char:EOLhyphen"/>ly Drawn the Pictures of ſome Igno<g ref="char:EOLhyphen"/>rant</hi> Young Gallants, <hi>and</hi> Youn<g ref="char:EOLhyphen"/>ger Brothers, <hi>alias</hi> Gulls: <hi>If you bid them Welcome, I am glad; if not, I cannot be much ſorry, be<g ref="char:EOLhyphen"/>cauſe the Cook knew not your Diet; ſo that his Error was Ignorance, and Ignorance is a venial Sin to be Pardoned.</hi>
+            </p>
+            <epigraph>
+               <q>Nam veniam pro laude peto: laudatus abunde, Non faſtiditus ſi tibi <hi>(Lector)</hi> ero.</q>
+            </epigraph>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:64540:10"/>
+            <pb facs="tcp:64540:10"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>THe Introduction.</hi> Pag. 1.</item>
+               <item>CHAP. I. <hi>The</hi> Old World <hi>and</hi> this New, <hi>weighed together. The</hi> Taylors <hi>of thoſe times and theſe compared. The</hi> Apparel <hi>of our firſt Fa<g ref="char:EOLhyphen"/>thers.</hi> 13</item>
+               <item>CHAP. II. <hi>How a Gallant ſhall not on<g ref="char:EOLhyphen"/>ly keep his</hi> Cloaths <hi>(which many of them can hardly
+<pb facs="tcp:64540:11"/> do for</hi> Brokers) <hi>but alſo ſave the Charges of taking</hi> Phyſick: <hi>With other Rules for the Morning. The praiſe of</hi> Sleep, <hi>and of going</hi> Naked. Page 20</item>
+               <item>CHAP. III. <hi>How a young Gallant ſhould accoſt to and warm himſelf by the</hi> Fire: <hi>How attire himſelf. The Deſcripti<g ref="char:EOLhyphen"/>tion of a Mans Head. The praiſe of long Hair.</hi> 32</item>
+               <item>CHAP. IV. <hi>Inſtructions how a young Gal<g ref="char:EOLhyphen"/>lant ſhould behave himſelf at an</hi> Ordinary. 42</item>
+               <pb facs="tcp:64540:11"/>
+               <item>CHAP. V. <hi>Inſtructions for a young Gal<g ref="char:EOLhyphen"/>lant how to behave him<g ref="char:EOLhyphen"/>ſelf in the</hi> Play-houſe. 55</item>
+               <item>CHAP. VI. <hi>Inſtructions how a young Gal<g ref="char:EOLhyphen"/>lant ſhould behave himſelf in a</hi> Tavern. 61</item>
+               <item>CHAP. VII. <hi>Inſtructions for a young Gal<g ref="char:EOLhyphen"/>lant how to behave himſelf paſſing through the</hi> City <hi>at all hours of the night, and how to paſs by any</hi> Watch. 66.</item>
+               <item>
+                  <hi>The Character of a Proud, Huffing, Self-conceited, Fop<g ref="char:EOLhyphen"/>piſh
+<pb facs="tcp:64540:12"/> and Laſcivious youn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gallant.</hi> Page 7<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>The Character of a True, No<g ref="char:EOLhyphen"/>ble, Liberal, and Stayed Gentleman.</hi> 87</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64540:12"/>
+            <div type="introduction">
+               <head>THE INTRODUCTION.</head>
+               <p>I Sing (like the <hi>Cuckoe</hi> in <hi>June)</hi> to be laught at; if therefore I make a ſcurvy Noiſe, and that my Tunes ſound un-Muſically (they being altogether lame in reſpect of the bad Feet, and un<g ref="char:EOLhyphen"/>handſome in reſpect of the worm<g ref="char:EOLhyphen"/>eaten Faſhion:) You that have Authority under the Broad Seal of Mouldy Cuſtome, to be called, <hi>The Gentle Audience,</hi> ſet your hands to my Pardon; or elſe, be<g ref="char:EOLhyphen"/>cauſe I ſcorn to be upbraided that I profeſs to Inſtruct others, in an Art whereof I my ſelf am Igno<g ref="char:EOLhyphen"/>rant; Do your worſt, chuſe whe<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:64540:13"/> you will let my Notes have you by the Ears or no: Hiſs, or give <hi>Plandites,</hi> I care not a Nut<g ref="char:EOLhyphen"/>ſhel which of either: You can neither ſhake our Comick Thea<g ref="char:EOLhyphen"/>tre with your ſtinking breath of Hiſſes, nor raiſe it with the Thun<g ref="char:EOLhyphen"/>der-claps of your Hands; up i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> goes <hi>in deſpetto del fato:</hi> a Coat with four Elbows (for any one that will wear it) is put to ma<g ref="char:EOLhyphen"/>king in defiance of the <hi>Seven Wiſe Miſtreſſes.</hi> For I have ſmelt out o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>muſty</hi> ſheets of an old <hi>Almo<g ref="char:EOLhyphen"/>nack,</hi> that (at one time or other) even he that talks all <hi>Adagie;</hi> eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he that will not have a wrinkl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his new Suite, though his Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be uglier than his Face, and hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Face ſo ill-favouredly made, that he looks at all times as if a Tooth drawer were fumbling about hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gums, with a thouſand lame <hi>Het<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> roclites</hi> more that cozen the
+<pb n="3" facs="tcp:64540:13"/> World with a Flaxen <hi>Perruke</hi> and a pair of <hi>Pantaloons,</hi> will be glad to ſtep in, and be driven (like a Flemiſh <hi>Hoy</hi> in ſoul weather) to ſlip into our School, and take out a Leſſon. Tuſh, <hi>Caelum petimus Stultiti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> all that are choſen Con<g ref="char:EOLhyphen"/>ſtables for their <hi>Wit;</hi> go not to <hi>Hea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en.</hi> A Fig therefore for the new<g ref="char:EOLhyphen"/>found <hi>Colledge</hi> of <hi>Criticks,</hi> that do nothing but <hi>ſing</hi> forth the <hi>Gam<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h. Air</hi> of <hi>Complemental Courte<g ref="char:EOLhyphen"/>ſie,</hi> and at the Ruſtical Behaviour of our Country-<hi>Muſo,</hi> will <hi>skrew</hi> forth worſe <hi>Faces,</hi> than thoſe wch God &amp; the Painter hath beſtowed upon <hi>You.</hi> I deſie your perfumed Scor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and vow to poyſon your <hi>Musk-Cats,</hi> if ever their <hi>eivet-Excrement</hi> do but once play with my <hi>Noſe.</hi> You ordinary Gulls, that through a poor and ſilly Ambition to be thought that you inherit the <hi>Be<g ref="char:EOLhyphen"/>vinues:</hi> of an extra ordinary <hi>Wit;</hi>
+                  <pb n="4" facs="tcp:64540:14"/> will ſpend your <hi>ſballow</hi> Cenſure upon the moſt elaborate Writings ſo laviſhly, that all about you take you to be <hi>Heirs-</hi> apparent to Rich <hi>Myd-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs,</hi> that had more Skill in <hi>Alchymy;</hi> than <hi>Kelly</hi> with the Phi<g ref="char:EOLhyphen"/>loſophers-Stone; (for all that he could, lay his <hi>Fingers</hi> on, turned into beaten. <hi>Gold.)</hi> Dry <hi>Yobacco</hi> with my <hi>Leaves</hi> (you Good dry<g ref="char:EOLhyphen"/>brain'd <hi>Polypragmoniſts)</hi> till your <hi>Pipe-Offices</hi> ſmoak with your ſtink<g ref="char:EOLhyphen"/>ing <hi>biſſes</hi> ſhot out againſt me. I Con<g ref="char:EOLhyphen"/>jure You (as you come of the right <hi>Gooſe-Caps)</hi> ſtain not your <hi>Houſe,</hi> but when at a <hi>New Play</hi> you take up your <hi>Seat</hi> in the <hi>Pit,</hi> or one of the <hi>Boxes</hi> (becauſe the <hi>Lords</hi> and you may ſeem <hi>Hayl Fellows well<g ref="char:EOLhyphen"/>met:) There</hi> draw forth this <hi>Book, Read</hi> aloud, <hi>Langh</hi> aloud, <hi>Play</hi> the <hi>Anticks,</hi> that all the whole <hi>Houſe</hi> may take notice of You. As for there <hi>Zoilus,</hi> Go hang thy ſelf; and
+<pb n="5" facs="tcp:64540:14"/> for thee <hi>Momus,</hi> Chew nothing but <hi>Hemlock,</hi> and ſpit nothing but the Syrup of <hi>Aloes</hi> upon my Papers, till thy very rotten <hi>Lungs</hi> come forth for Anger. I am <hi>Snake-</hi>proof, and though with <hi>Hannibal</hi> you bring whole Hogſheads of <hi>Vinegar-Ray<g ref="char:EOLhyphen"/>lings,</hi> it is impoſſible for you to <hi>quench;</hi> or <hi>come over</hi> my <hi>Alpine-Reſolution.</hi> I'll <hi>Sail</hi> boldly and deſperately along the Shore of the <hi>Iſle</hi> of <hi>Gulls;</hi> and in defiance of thoſe terrible <hi>Block-Houſes,</hi> their <hi>Logger-beads,</hi> will make a true Di<g ref="char:EOLhyphen"/>ſcovery of their <hi>wild,</hi> yet <hi>habita<g ref="char:EOLhyphen"/>ble</hi> Country.</p>
+               <p>Sound an <hi>Alarm</hi> therefore (Oh my Courageous <hi>Muſe!)</hi> and like a Common Cryer, make Procla<g ref="char:EOLhyphen"/>mation with thy <hi>Drum;</hi> the effect of Thine <hi>O Yes</hi> being, <hi>That if any Man, Woman, or Child, be he Lord, be he Clown; be he Courtier, be he Carter; of the</hi> Inns <hi>of</hi> Court, <hi>ha<g ref="char:EOLhyphen"/>ting
+<pb n="6" facs="tcp:64540:15"/> from the bottom of his heart all</hi> Good Manners, <hi>and</hi> Generous Education, <hi>is really in love, or ra<g ref="char:EOLhyphen"/>ther doats on that Excellent Coun<g ref="char:EOLhyphen"/>try-Lady,</hi> Innocent-Simplicity, <hi>be<g ref="char:EOLhyphen"/>ing the First, Faireſt, and Chiefeſt</hi> Chamber-maid <hi>that our Great Grandame</hi> Eve <hi>entertaind into</hi> Service: <hi>Or if any</hi> Perſon <hi>afore<g ref="char:EOLhyphen"/>ſaid, longing to make a</hi> Voyage <hi>in the</hi> Ship <hi>of</hi> Fools, <hi>would</hi> venture <hi>all the</hi> Wit <hi>that his</hi> Mother <hi>left</hi> him, <hi>to live in the Country of</hi> Gulls, Cockneys, <hi>and</hi> Coxcombs; <hi>to the intent, that</hi> haunting <hi>the</hi> Two THEATERS, <hi>he may onely</hi> Learn PLAY-SPEECHES, <hi>which afterwards may</hi> furniſh <hi>the</hi> neceſſity <hi>of his</hi> bare <hi>Knowledge, to maintain</hi> Table-Talk; <hi>or elſe fre<g ref="char:EOLhyphen"/>quenting</hi> Taverns, <hi>deſires to take</hi> the Bacchanalian Degrees, <hi>and to write himſelf into</hi> Arte Biben<g ref="char:EOLhyphen"/>di Magiſter: <hi>Let all ſuch (and I
+<pb n="7" facs="tcp:64540:15"/> hope the World hath not left her</hi> old Faſhions, <hi>but there are ten thouſand ſuch) repair hither: never</hi> knock, <hi>but with your Feet</hi> ſpurn <hi>open the Door, and enter in<g ref="char:EOLhyphen"/>to our</hi> School. <hi>You ſhall not need to buy</hi> Books; <hi>No, ſcorn to diſtin<g ref="char:EOLhyphen"/>guiſh a</hi> B <hi>from a</hi> Battle-door; <hi>only look that your</hi> Ears <hi>be long enough to reach our</hi> Rudiments, <hi>and you are made for</hi> ever.</p>
+               <p>It is by Heart that I would have you to <hi>con</hi> my <hi>Leſſons;</hi> and there<g ref="char:EOLhyphen"/>fore be ſure to have moſt <hi>devour<g ref="char:EOLhyphen"/>ing</hi> Stomachs; nor be you <hi>terriſied</hi> with an Opinion, that our <hi>Rules</hi> be hard and <hi>indigeſtable,</hi> and that you ſhall never be <hi>good</hi> Gradtiates in thoſe <hi>rare</hi> Sciences of Barbariſm and <hi>Idiotiſm.</hi> Oh! Fie upon any Man that carries that <hi>ungodly</hi> mind. Tuſh, tuſh, the greateſt <hi>Fool</hi> that ever was, never <hi>Plaid</hi> the <hi>Clown</hi> more <hi>naturally,</hi> than the <hi>arranteſt
+<pb n="8" facs="tcp:64540:16"/> Sot</hi> of you all ſhall, if he will but <hi>boyl</hi> my Inſtructions in his <hi>Brain<g ref="char:EOLhyphen"/>pan.</hi>
+               </p>
+               <p>And leſt I my ſelf, like ſome <hi>Pedantical</hi> Vicar, ſtammering out a moſt <hi>falſe</hi> and <hi>crackt</hi> Latine Ora<g ref="char:EOLhyphen"/>ration to Mr. Major of the Town and his Brethren, ſhould <hi>cough</hi> and <hi>hem</hi> in my Deliveries; by which means, <hi>You,</hi> my Auditors, ſhould be in danger to depart <hi>more</hi> like <hi>Woodcooks,</hi> than when you came to me: Oh! Thou Venerable Father of antient &amp; therefore <hi>hoary)</hi> Cuſtoms <hi>Sylvanus!</hi> I invoke thy Aſſiſtance Thou that firſt <hi>taughteſt</hi> Carters to wear Hob-nails, and Clowns to <hi>play</hi> Chriſt-maſs-Gambols, Oh do thou! Or, If thou art not at lei<g ref="char:EOLhyphen"/>ſure, let thy <hi>Mountebank,</hi> Goat<g ref="char:EOLhyphen"/>footed <hi>Fauni,</hi> inſpire me with the knowledge of all thoſe <hi>ſilly</hi> and <hi>ridiculous</hi> Faſhions, which the Old <hi>dunſtical</hi> world <hi>wore,</hi> even out at
+<pb n="9" facs="tcp:64540:16"/> Elbows. Draw for me the Pi<g ref="char:EOLhyphen"/>ctures of the <hi>moſt</hi> ſimple Fellows <hi>then</hi> living, that by their Paterns I may <hi>pain't</hi> the like. Awake! Thou <hi>nobleſt</hi> Drunkard, <hi>Bacchus,</hi> Thou muſt likewiſe ſtand to me (if at leaſt thou canſt for <hi>reeling)</hi> teach me how to take the Ger<g ref="char:EOLhyphen"/>mans <hi>Op ſijn Frize,</hi> the Daniſh <hi>Rowſa,</hi> the Switzers <hi>Stoop of Rheniſh,</hi> the Italians <hi>Parmaſant,</hi> the Engliſhmans <hi>Healths</hi> and <hi>Frolicks.</hi> Hide not a <hi>drop</hi> of thy <hi>moiſt</hi> My<g ref="char:EOLhyphen"/>ſtery from me, thou <hi>plumpeſt Swill<g ref="char:EOLhyphen"/>bowl.</hi> Thirdly, (Becauſe I will have <hi>more</hi> than two Strings to my Bow) Come thou Clerk of Glut<g ref="char:EOLhyphen"/>tonies Kithin; Do thou alſo bid me <hi>Pro-face;</hi> and let me not ariſe from Table, till I am perfect in all the <hi>general</hi> Rules of Epicures and Cor<g ref="char:EOLhyphen"/>morants: fatten thou my Brains, that I may feed others, and teach them both how to ſquat down to their
+<pb n="10" facs="tcp:64540:17"/> meat, and how to munch ſo like <hi>Loobies,</hi> that the wiſeſt <hi>Solon</hi> in the world ſhall not be able to take them for any others. If there be any ſtrength in thee, thou <hi>beggarly</hi> Monarch of <hi>Indians,</hi> and <hi>ſet<g ref="char:EOLhyphen"/>ter-up</hi> of <hi>rotten-lung'd</hi> Chimney. Sweepers <hi>(Tobacco!)</hi> I beg it at thy ſmoaky hands; make me thy adopted Heir, that inheriting the virtues of thy whiffs, I may diſtribute them amongſt all Nati<g ref="char:EOLhyphen"/>ons: after thy <hi>Pipe</hi> ſhall ten thou<g ref="char:EOLhyphen"/>ſand be taught to <hi>Dance,</hi> if thou wilt but diſcover to me the ſweet<g ref="char:EOLhyphen"/>neſs of thy <hi>Snuffs,</hi> with the manner of <hi>ſpawling, ſpitting</hi> and <hi>driveling<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in all <hi>places,</hi> and before all <hi>perſons.</hi> Oh! what Songs will I <hi>charm</hi> forth in praiſe of thoſe valiantly-ſtrong ſtinking-breaths, which are eaſily purchaſed at thy hands, if I can but get thee to <hi>travel</hi> through my <hi>Noſe.</hi> All the <hi>foughs</hi> in the faire<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:64540:17"/> Ladies <hi>mouths</hi> that ever <hi>kiſt</hi> Lord, ſhall not fright me from thy <hi>Brown</hi> preſence; for thou art <hi>humble,</hi> and from the <hi>Courts</hi> of <hi>Princes</hi> haſt <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>chſafed</hi> to be acquainted and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>runk for <hi>Company</hi> with Water<g ref="char:EOLhyphen"/>men, Carmen, and Colliers; where<g ref="char:EOLhyphen"/>is <hi>before,</hi> and ſo <hi>ſtill,</hi> Knights and <hi>wiſe</hi> Gentlemen, were, and are, thy <hi>Companions.</hi> Laſt of all, Thou La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y of Clowns and Carters! School<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtreſs of <hi>Fools</hi> and <hi>Wiſe-acres!</hi> Thou <hi>homely</hi> (but harmleſs) <hi>Ru<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>icity!</hi> Oh breath thy <hi>dull</hi> and <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>unſtical</hi> Spirit into our <hi>Gander<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Quill. Crown me thy <hi>Poet,</hi> not with a Garland of <hi>Bays</hi> (Oh! no, the number of thoſe that ſteal <hi>Lau<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el,</hi> is too <hi>monſtrous</hi> already.) But <hi>ſwaddle</hi> thou my <hi>brows</hi> with thoſe unhandſome <hi>Boughs,</hi> which (like <hi>Autumn's</hi> rotten-hair) hang dang<g ref="char:EOLhyphen"/>ling over thy <hi>duſty</hi> Eye-lids. Help me (thou Midwiſe of un<g ref="char:EOLhyphen"/>mannerlyneſs)
+<pb n="12" facs="tcp:64540:18"/> to be delivered this <hi>Embryon</hi> which lies tumbli<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in my Brain. Direct me in t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hard and dangerous Voyage, th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being ſafely arrived on the deſir<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Shore, I may build up Altars <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy unmatchable rudeneſs. <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Herculean</hi> a labour is this that I <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dertake, that I am inforced to <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> out for all your Succours; to t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> intent I may aptly furniſh this <hi>Fe<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> of <hi>Fools,</hi> unto which I ſolemn<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> invite all the world: for at it ſha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſit, not only thoſe whom Fortu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> favours, but even thoſe whoſe W<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> are naturally their own. Yet b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cauſe your artificial <hi>Fools</hi> bear <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> way the Bell, all our beſt Wor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>manſhip at this time ſhall be ſpe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to faſhion ſuch a Creature.</p>
+            </div>
+            <div n="1" type="chapter">
+               <pb n="13" facs="tcp:64540:18"/>
+               <head>CHAP. 1.</head>
+               <argument>
+                  <p>
+                     <hi>The</hi> Old World <hi>and</hi> this New, <hi>weighed together. The</hi> Taylors <hi>of thoſe times and theſe compared. The</hi> Apparel <hi>of our firſt Fa<g ref="char:EOLhyphen"/>thers.</hi>
+                  </p>
+               </argument>
+               <p>GOod Cloaths are the embroi<g ref="char:EOLhyphen"/>dered Trappings of <hi>Pride;</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Good Chear the very <hi>Eringo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t</hi> of <hi>Gluttony.</hi> Did Man, think you, come wrangling into the World about no better matters, than all his life-time to make privy ſearch<g ref="char:EOLhyphen"/>es for Faſhions, or for Pies of Nigh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ingals tongues in <hi>Heliogabalus</hi> his Kitchin? Oh! no: The firſt Suit of Apparel that ever mortal Man put on, came neither from the
+<pb n="14" facs="tcp:64540:19"/> Mercers ſhops, nor the Merchan Ware-houſe. <hi>Adam's Bill</hi> would have been ſooner taken, than. <hi>Knights Bond</hi> now. Yet was great in no bodies Books for <hi>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fety</hi> or <hi>Velvet:</hi> the Silk-wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had ſomething elſe to do in th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> days, than to ſet up <hi>Looms,</hi> and free of the <hi>Weavers.</hi> His Breech were not ſo much worth as Ki<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Stephens,</hi> that coſt but a poor N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble: for <hi>Adams</hi> Holiday-Suit was <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> better Stuff than plain Fig-leaves and <hi>Eves</hi> beſt Gown of the ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Piece; there went but a pair ſhears betwixt them. An Ant<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quary in this Town has yet ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Powder of thoſe Leaves di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed, to ſhew. Taylors then wer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> none of the Twelve Companies Their Hall, that now is larger the ſome Dorps among the <hi>Nethe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> lands,</hi> was then no bigger than a ordinary Trades-mans Shop: the
+<pb n="15" facs="tcp:64540:19"/> durſt not ſtrike down their Cuſto<g ref="char:EOLhyphen"/>mers with their large Bills. <hi>Adam</hi> car'd not an Apple-paring for all their lowzy Hems. <hi>Faſhions</hi> then was counted a Diſeaſe, and Horſes died of it; but now (thanks to folly) it is held the only rare Phy<g ref="char:EOLhyphen"/>ſick, and the pureſt golden Aſſes live upon it.</p>
+               <p>As for the Diet of that <hi>Saturni<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Age, it was like their Attire, homely: A Sallad and a Meſs of Leek-porridge was a Dinner for a for greater Man than ever the <hi>Turk</hi> was: Potato-pies and Cuſtards, ſtood like the ſinful Suburbs of Cookery, and had not a wall (ſo much as a handful high) built <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound about them. Oh, golden World! the ſuſpitious <hi>Venetian</hi> carved not his Meat with a ſilver Pitch-fork, neither did the ſweet<g ref="char:EOLhyphen"/>tooth'd <hi>Engliſhman</hi> ſtuff a dozen of Plates at one Meal. <hi>Piers Plow<g ref="char:EOLhyphen"/>man</hi>
+                  <pb n="16" facs="tcp:64540:20"/> lay'd the Cloth, and <hi>Simpll<g ref="char:EOLhyphen"/>city</hi> brought in the Voyder. Ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wonderfully is the world altered and no marvel: For it hath lai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſick above five thouſand years So that it is now no more like the Old <hi>Theatre du Monde,</hi> than the Bear-Garden St. <hi>James</hi> his Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> What an excellent Workman there fore were he, that could caſt the Globe of it into a new Mould And not to make it look like the ordinary Globe, with a round Fac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſleekt, and waſhed over with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Whites of Eggs, but to have it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Plano,</hi> as it was at firſt, with all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> antient Circles, Lines, Parallels and Figures, repreſenting indeed, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Wrinkles, Cracks, Creviſe and Flaws that ſtuck upon it a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the firſt Creation, and made <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> look moſt lovely. But now thoſe Furrows are filled up with <hi>Ceruſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and <hi>Vermilion;</hi> yet all will no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:64540:20"/> do, it appears more <hi>ugly.</hi> Come, come, it would be a <hi>bald</hi> World, but that it wears a <hi>Perruke:</hi> The Body of it is <hi>fowl</hi> (like a Birding<g ref="char:EOLhyphen"/>piece) by being too much heat<g ref="char:EOLhyphen"/>ed: the breath of it ſtinks like the breath of Chamber-maids, by feed<g ref="char:EOLhyphen"/>ing on ſo many Sweet-meats; and though to purge it will be a ſorer labour. than the cleanſing of <hi>Au<g ref="char:EOLhyphen"/>geas</hi> his Stable, yet <hi>Ille ego qui quondam,</hi> I am he that will do <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>Draw near therefore, all you that love to walk upon ſingle and ſimple Souls, and that wiſh to keep Company with none but In<g ref="char:EOLhyphen"/>nocents, and the Sons of civil Citi<g ref="char:EOLhyphen"/>rens; out with your Tables, and nail your Ears (as it were to the Pillory) to the Muſick of our In<g ref="char:EOLhyphen"/>ſtructions: nor let the Titles of Gullery and Bublery fright you from our School; for mark what
+<pb n="18" facs="tcp:64540:21"/> an excellent Ladder you are to climbe by. How many worthy and Men of famous Memory have flouriſhed in <hi>London</hi> of that anti<g ref="char:EOLhyphen"/>ent Family the <hi>Wiſe-acres,</hi> bein<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now no better eſteemed than Foo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Younger Brothers? This gea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> muſt be looked into, leſt in time (oh lamentable time! when that hour-glaſs is turned up) a Rich mans Son ſhall no ſooner peep out of the ſhell of his Minority, but he ſhall be <hi>ſtraight-ways</hi> begge<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for a concealment, or ſet upon (a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it were by <hi>Free-booters)</hi> and ta'n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in his own <hi>Purſe-nets</hi> by Fence<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Coney-catchers: to drive which peſtilent Infection from hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heart, here is a Medicine more po<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tent and more pretious than eve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was that mingle-mangle of Drug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which <hi>Mithridates</hi> boyled toge<g ref="char:EOLhyphen"/>ther; fear not then to taſte it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Caudle will not go down half <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:64540:21"/> ſweetly as this will: You need not call the honeſt name of it in Queſtion; for Antiquity puts off his Gap, and makes a bare Ora<g ref="char:EOLhyphen"/>tion in praiſe of the virtues of it: the Receipt hath been ſubſcribed unto by all thoſe that have had to do with <hi>Simples,</hi> with this Moth<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ten Motto, <hi>Probatum eſt.</hi> You therefore whoſe Bodies are either over-flowing with the corrupt hu<g ref="char:EOLhyphen"/>mour of this Age, Phantaſtick<g ref="char:EOLhyphen"/>neſs; or elſe being burnt up with the inflammation of upſtart Faſhi<g ref="char:EOLhyphen"/>ons, would fain be purged, and to truly ſhew that you truly loath this polluted and mangie-fiſt<g ref="char:EOLhyphen"/>ed world, turn Pinioniſts, not ca<g ref="char:EOLhyphen"/>ring either for <hi>Men</hi> or their <hi>Man<g ref="char:EOLhyphen"/>ners;</hi> do you pledge me; ſpare not to take a deep draught of our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mely Counſel: the Cup is full, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſo large, that I boldly drink a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>alth unto all Comers.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="20" facs="tcp:64540:22"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>
+                     <hi>How a Gallant ſhall not on<g ref="char:EOLhyphen"/>ly keep his</hi> Cloaths <hi>(whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> many of them can hardl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> do for</hi> Brokers) <hi>but all ſave the Charges of taking</hi> Phyſick: <hi>With other Rule<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> for the Morning. The praiſe of</hi> Sleep, <hi>and of goin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Naked.</p>
+               </argument>
+               <p>YOu have heard all this while nothing but the Prologue and ſeen no more than a Dum<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Show: Our <hi>Vetu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Comedia</hi> ſtep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out now.</p>
+               <p>The fitteſt ſtay upon which you (that ſtudy to be an Actor there are firſt to repreſent your ſelf, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> (in my Judgment) the ſofteſt and
+<pb n="21" facs="tcp:64540:22"/> largeſt Down-bed; from whence, if you will but take ſound Counſel on your Pillow, you ſhall never ariſe until you hear it <hi>ring noon</hi> at leaſt. Sleep, in the Name of <hi>Mor<g ref="char:EOLhyphen"/>pheus,</hi> your belly-full, or (rather) ſleep till your. Belly grumbles and waxeth empty. Care not for thoſe courſe-painted Cloth-lines made by the Univerſity of <hi>Salern,</hi> that come over you with.</p>
+               <p>
+                  <hi>Sit brevis aut nullus tibi ſamnus Meridianus.</hi>
+               </p>
+               <p>Short let thy Sleep at <hi>Noon</hi> be Or rather let it <hi>none</hi> be</p>
+               <p>Sweet candid Counſel! but there is Rats bane under it. Truſt ne<g ref="char:EOLhyphen"/>ver a Batchelor of Art of them all for he ſpeaks your health fair, but only to ſteal away the Mayden<g ref="char:EOLhyphen"/>head of it. <hi>Salern</hi> ſtands in the
+<pb n="22" facs="tcp:64540:23"/> luxurious Country of <hi>Naples;</hi> and who knows not but the <hi>Neapolita<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> will, like the <hi>Jeſuites,</hi> embrace you with one hand, and rip your Gut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the other? proteſt love, you hate mortally? There is not a ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his <hi>Muſtacho,</hi> but if he kiſs you will ſtab you through the Chec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like a Ponyard. The Slave, to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> avenged on his Enemy, will dri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> off a pint of Poyſon himſelf, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that he may be ſure but to have the other pledge him half ſo much And it may be, upon ſome ſecre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grudge to work the general de<g ref="char:EOLhyphen"/>ſtruction of all Men-kind. Phyſi<g ref="char:EOLhyphen"/>tian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (I know) and none elſe, too<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up the Bucklers in their defence rayling bitterly upon that Venera<g ref="char:EOLhyphen"/>ble and Princely Cuſtome of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lying abed. Yet how I remember me, I cannot blame them; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they which want ſleep (which is Man natural reſt) become either mee
+<pb n="23" facs="tcp:64540:23"/> 
+                  <hi>Naturals,</hi> or elſe fall into the <hi>Do<g ref="char:EOLhyphen"/>ctors hands,</hi> and ſo conſequently into the <hi>Lords:</hi> Whereas he that Snorts profoundly ſcorns to let <hi>Hippocrates</hi> himſelf ſtand giving his Judgment on his Urinal, and there<g ref="char:EOLhyphen"/>by ſaves the charges of a Groats worth of Phyſick; and happy is that man ſaves it: for Phyſick is <hi>Non minus venifica quam benefica;</hi> it hath an ounce of Gall in it, for every dram of Honey. Ten <hi>Ty<g ref="char:EOLhyphen"/>burns</hi> cannot turn Men over the Pearch ſo faſt as one of theſe <hi>Brew<g ref="char:EOLhyphen"/>ers</hi> of <hi>Purgations;</hi> the very nerves of their Practice being nothing but <hi>Ars homici<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>orum;</hi> an Art to make poor Souls kick up their heels. Inſomuch that even their ſick grunting Patients ſtand in more danger of Mr. Doctor and his Drugs, than of all the Canon <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ots which the deſperate Diſeaſe it ſelf can diſcharge againſt them. Send
+<pb n="24" facs="tcp:64540:24"/> them packing therefore to wal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like <hi>Italian, Mount<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bancks;</hi> beat not your Brains to underſtand their parcel Greek, parcel Latin Gib. briſh: Let not all their Sophiſtical buzzing in your Ears, nor then Satyrical canvaſing of Feather. beds, and toſſing Men out of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> warm Blankets, awake you till the Hour that is here preſcribed. For do but conſider what an excellent thing Sleep is; it is ſo ineſtimable a Jewel, that if a Tyrant would give his Crown for an hours ſlum<g ref="char:EOLhyphen"/>ber, it cannot be bought; of ſo beautiful a ſhape is it, that though a Man lie with an Empreſs, his Heart cannot be at quiet till he leaves her Embracements to be at reſt with the other: Yea, ſo great<g ref="char:EOLhyphen"/>ly are we indebted to this Kinſ<g ref="char:EOLhyphen"/>man<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f Death, that we owe the better Tributary half of our, Life to him<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and there is good Cauſe why
+<pb n="25" facs="tcp:64540:24"/> we ſhould do ſo; for Sleep is that Golden Chain that ties Health and our Bodies together. Who com<g ref="char:EOLhyphen"/>plains of Wants, of Wounds, of Cares, of Great Mens Oppreſſions, Captivity, whilſt he ſleepeth? Beg<g ref="char:EOLhyphen"/>gars in their Beds take as much pleaſure as Kings; Can we there<g ref="char:EOLhyphen"/>fore ſur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et on this delicate <hi>Ambro<g ref="char:EOLhyphen"/>ſia?</hi> Can we drink of that too much, whereof to taſte a little tumbles us into a Church-yard, and to uſe it but indifferently, throws us into Bedlam? No, no, look up<g ref="char:EOLhyphen"/>on <hi>Endymion</hi> the Moons Minion, who ſlept threeſcore and fifteen years, and was not a hair the worſe for it. Can lying abed till Noon then (being not the threeſcore and fifteenth part of his nap) be hurtful?</p>
+               <p>Beſides, By the Opinion of all Philoſophers and Phyſitians, 'tis not good to truſt the Air with
+<pb n="26" facs="tcp:64540:25"/> our Bodies till the Sun with his flame-coloured wings hath fan<g ref="char:EOLhyphen"/>ned away the miſty ſmoak of the Morn, and refined that thick To<g ref="char:EOLhyphen"/>bacco-breath which the rheuma<g ref="char:EOLhyphen"/>tick Night throws abroad on pur<g ref="char:EOLhyphen"/>poſe to put out the Eye of the E<g ref="char:EOLhyphen"/>lement: which work Queſtionleſs cannot be perfectly finiſhed, till the Suns Car-horſes ſtand prancing on the very top of higheſt Noon: ſo that then (&amp; not till then) is thy healthfulleſt hourto be ſtirring. Do you require Examples to perſwade you? At what time do <hi>Lords</hi> and <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dies</hi> riſe, but at that time? Your ſimpering <hi>Merchants Wives</hi> are the faireſt liers in the world; and is not eleven a Clock their com<g ref="char:EOLhyphen"/>mon hour? they find (no doubt) unſpeakable ſweetneſs in ſuch ly<g ref="char:EOLhyphen"/>ing, or elſe they would not day by day put it into practice. In a word, Midday-ſlumbers are Gol<g ref="char:EOLhyphen"/>den;
+<pb n="27" facs="tcp:64540:25"/> they make the body fat, the skin fair, the fleſh plump, delicate and tender; they ſet a crimſon Colour on the cheeks of young Women, and make Courage to riſe up in Men; they make us thriſty, both in ſparing <hi>Victuals</hi> (for Break-faſts thereby are ſaved from the Hell-mouth of the <hi>Belly)</hi> and in preſerving <hi>Apparel;</hi> for whileſt we warm us in our Beds, our Cloaths are not worn. The Caſements of thine Eyes being then at this commendable time of Day newly ſet open, chuſe rather to have thy wind-pipe cut in pie<g ref="char:EOLhyphen"/>ces than ſo Salute any man: Bid not <hi>Good Morrow</hi> ſo much as to thy Father, though he be an Em<g ref="char:EOLhyphen"/>peror: an idle Ceremony it is, and can do him little good; to thy ſelf it may bring much harm. For if he be a wiſe man, that knows how to hold his peace, of neceſſity he
+<pb n="28" facs="tcp:64540:26"/> muſt be counted a fool that can<g ref="char:EOLhyphen"/>not keep his tongue.</p>
+               <p>Among all the wild men that run up and down in this wide <hi>Foreſt of Fools</hi> (the World) none are more ſuperſtitious than thoſe notable <hi>Ebritians,</hi> the Jews; yet a Jew never wears his Cap thred<g ref="char:EOLhyphen"/>bare with putting it off; never bends in the Hams with caſting a<g ref="char:EOLhyphen"/>way a Leg; never cries <hi>God ſave you,</hi> though he ſee the Devil at your Elbow. Play the Jews there<g ref="char:EOLhyphen"/>fore in this, and ſave thy Lips that labour; only to remember, that ſo ſoon as thy Eye-lids be unglu<g ref="char:EOLhyphen"/>ed, thy firſt exerciſe muſt be (ei<g ref="char:EOLhyphen"/>ther ſitting upright on thy Pillow, or lying at thy Bodies length) to yawn and ſtretch, and gape wider than an Oyſter-Weuch.</p>
+               <p>This Leſſon being played, turn over a new leaf, and (unleſs that <hi>Frizeland-Cur,</hi> cold Winter, offer
+<pb n="29" facs="tcp:64540:26"/> to bite thee) walk up and down a while in thy Chamber, either in thy thin ſhirt only, or ſtrip thy ſelf ſtark naked: Are we not born ſo, and ſhall a fooliſh Cuſtome make us to break the Laws of our Creation? Our firſt Parents, ſo long as they went naked, were ſuffered to dwell in Paradiſe; but after they got Coats to their backs, they were turned out of Doors. Put on therefore no Apparel at all, or put it on careleſly; for look how much more delicate Liberty is than Bondage, ſo much is the looſneſs in wearing of our Attire, a<g ref="char:EOLhyphen"/>bove the impriſonment of being nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly and Taylor-like dreſt up. To be ready in our Cloaths, is to be ready for nothing elſe: A man looks as if he hung in Chains, or like a Scar-crow: and as thoſe ex<g ref="char:EOLhyphen"/>cellent Birds (whom <hi>Pliny</hi> could never have the wit to catch in all
+<pb n="30" facs="tcp:64540:27"/> his Springes) commonly called <hi>Woodcocks</hi> (whereof there is great ſtore in <hi>England)</hi> having all their Feathers pluckt from their backs, and being turned out as naked as <hi>Plato</hi>'s Cock was before all <hi>Dioge<g ref="char:EOLhyphen"/>nes</hi> his Scholars; even ſo ſtands the caſe with man. <hi>Truth</hi> (be<g ref="char:EOLhyphen"/>cauſe the bald-Pate her Father <hi>Time</hi> hath no Hair to cover his Head) goes ſtark naked; but <hi>Falſhood</hi> hath ever a Cloak for the Rain. You ſee likewiſe that the <hi>Lyon,</hi> being the King of Beaſts; the <hi>Horſe,</hi> being the luſtieſt Crea<g ref="char:EOLhyphen"/>ture; the <hi>
+                     <g ref="char:V">Ʋ</g>nicorn,</hi> whoſe Horn is worth half a City; all theſe go with no more clothes on their backs than what Nature hath be<g ref="char:EOLhyphen"/>ſtowed upon them: but your <hi>Jack<g ref="char:EOLhyphen"/>anapes</hi> (being the ſcum and raſcal<g ref="char:EOLhyphen"/>lity of all the hedge-creepers) they go in Jerkins: Marry how? They are put into theſe rags only in moc<g ref="char:EOLhyphen"/>kery.</p>
+               <pb n="31" facs="tcp:64540:27"/>
+               <p>Oh! Beware therefore what you wear, and how you wear it; and let this heavenly Reaſon move you never to be handſome: for when the Sun is ariſing out of his Bed, doth not the Element ſeem more glorious than (being only in gray) at Noon, when he is in all his Bravery? it were madneſs to deny it: What man would not willingly ſee a beautiful woman naked, or at leaſt with nothing but a Lawn or ſome looſe thing over her? Shall we then abhor that in our ſelves, which we admire and hold to be ſo excellent in others? <hi>Abſit.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="32" facs="tcp:64540:28"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>
+                     <hi>How a young Gallant ſhould accoſt to and warm himſelf by the</hi> Fire: <hi>How attire himſelf. The Deſcripti<g ref="char:EOLhyphen"/>tion of a Mans Head. The praiſe of long Hair.</hi>
+                  </p>
+               </argument>
+               <p>BUt if (as it often happens, un<g ref="char:EOLhyphen"/>leſs the Year catch the Sweat<g ref="char:EOLhyphen"/>ing-Sickneſs) the Morning like Charity waxing cold, thruſt his froſty fingers into thy boſome, pinching thee black and blew (with her nails made of Ice) like an invincible Goblin, ſo that thy Teeth (as if thou wert ſinging a Prick-ſong) ſtand coldly quave<g ref="char:EOLhyphen"/>ring in thy Head, and leap up and down like the nimble Jacks of a
+<pb n="33" facs="tcp:64540:28"/> pair of Virginals; be then as ſwift as a Whirlwind, and as boyſtrous in toſſing all thy cloaths in a rude heap together; with which bundle filling thine Arms, ſtep bravely forth, crying, <hi>Room, What a coyl keep you about the Fire?</hi> The more are ſet round about it, the more is thy commendation, if thou either bluntly rideſt over their ſhoulders, or tumbleſt aſide their Stools, to creep into the Chimney-corner: there toaſt thy body till thy ſchorched ſhins be ſpeckled all over, being ſtained with more Colours than are to be ſeen on the right ſide of the Rain<g ref="char:EOLhyphen"/>bow.</p>
+               <p>Neither ſhall it be fit for the ſtate of thy health to put on thy Apparel, till by fitting in that hot<g ref="char:EOLhyphen"/>houſe of the Chimney, thou feel<g ref="char:EOLhyphen"/>eſt the fat Dew of thy body (like biſting) run trickling down thy
+<pb n="34" facs="tcp:64540:29"/> ſides; for by that means thou may'ſt lawfully boaſt, <hi>That thou liveſt by the ſweat of thy brows.</hi>
+               </p>
+               <p>As for thy ſtockings and ſhooes, ſo wear them, that all men may point at thee, and make thee fa<g ref="char:EOLhyphen"/>mous by that glorious name of <hi>Male-content.</hi>
+               </p>
+               <p>Having thus apparelled thee from Top to Toe, according to that ſimple Faſhion which the greateſt <hi>Coxcombs</hi> in <hi>Europe</hi> ſtrive to imi<g ref="char:EOLhyphen"/>tate; it is now high time for me to have a blow at thy head; wch I will not cut off with ſharp Documents, but rather ſet it on faſter, beſtow<g ref="char:EOLhyphen"/>ing upon it ſuch excellent carving, that if all the Wiſemen of <hi>Gotham</hi> ſhould lay their Heads together, their <hi>Jobber-nowls</hi> would not be able to compare with thine.</p>
+               <p>To maintain therefore that Sconce of thine ſtrongly guarded and in good reparation, let never
+<pb n="35" facs="tcp:64540:29"/> any Combe faſten his. Teeth there: Let thy Hair grow thick and buſhy like a Foreſt, or ſome Wilderneſs, leſt thoſe <hi>ſix</hi>-footed Creatures that breed in it, and are Tenants to that <hi>Crown-Land</hi> of thine, be hunt<g ref="char:EOLhyphen"/>ed to death by every baſe, barba<g ref="char:EOLhyphen"/>rous <hi>Barber,</hi> and ſo that delicate and tickling pleaſure of ſcratching be utterly taken from thee; for thy Head is a Houſe built for Reaſon to dwell in; and thus is the Tene<g ref="char:EOLhyphen"/>ment framed. The two <hi>Eyes</hi> are the Glaſs-windows, at which Light diſperſes it ſelf into every Room; having goodly Penthouſes of Hair to overſhade them. As for the <hi>Noſe,</hi> though ſome (injuriouſly and moſt improperly) make it ſerve for an <hi>Indian-Chimney,</hi> yet ſurely 'tis rightly a Bridge, two Ar<g ref="char:EOLhyphen"/>ches under which are neat Paſſa<g ref="char:EOLhyphen"/>ges to convey as well Perfumes to air and ſweeten every Chamber, as
+<pb n="36" facs="tcp:64540:30"/> to carry away all noiſome Filth that is ſwept out of unclean Cor<g ref="char:EOLhyphen"/>ners. The <hi>Cherry-lips</hi> open like the new-painted Gates of a Lord Majors Houſe, to take in Proviſi<g ref="char:EOLhyphen"/>on. The <hi>tongue</hi> is a Bell hang<g ref="char:EOLhyphen"/>ing juſt under the middle of the <hi>Roof;</hi> and leſt it ſhould be rung out too deep (as ſometimes it is when women have a Peal) where<g ref="char:EOLhyphen"/>as it was caſt by the firſt Founder only to <hi>tole</hi> ſoftly; there are two Rows of Ivory Pegs (like Pales) to keep it in. The <hi>Ears</hi> are two Mu<g ref="char:EOLhyphen"/>ſick-rooms, into which, as well good ſounds as bad deſcend down two narrow pair of Stairs, that for all the world have crooked wind<g ref="char:EOLhyphen"/>ings like thoſe that did lead to the top of <hi>Pauls</hi>-Steeple, when ſtanding before <hi>that General Conflagration:</hi> And becauſe when the Tunes are once got in, they ſhould not too quickly ſlip out, all the walls of both
+<pb n="37" facs="tcp:64540:30"/> places are plaiſtered with yellow Wax round about them. Now as the faireſt Lodging, though it be furniſhed with Walls, Chimneys, Chambers, and all other parts of Architecture; yet if the Sieling be wanting, it ſtands ſubject to Rain, and ſo conſequently to Ruine: So would this goodly Palace which we have modelled out unto you, be but a cold and bald habitation, were not the top of it rarely co<g ref="char:EOLhyphen"/>vered. Nature therefore hath plaid the Tyler, and given it a moſt curious Covering, or (to ſpeak more properly) ſhe hath thatched it all over, and that thatching is <hi>Hiir:</hi> if then thou deſireſt to reſerve that <hi>Fee-ſimple</hi> of Wit (thy Head) for <hi>Thee</hi> and the lawful <hi>Heirs</hi> of thy <hi>Body,</hi> let thy <hi>Hair</hi> receive his full growth, that thou may 'ſt ſafely and wiſely brag 'tis thine own <hi>Buſh</hi> natural.
+<pb n="38" facs="tcp:64540:31"/> And withal conſider, that as thoſe ſnowy Fleeces which the naked Bryar ſteals from the innocent nib<g ref="char:EOLhyphen"/>bling ſheep, to make him a warm Winter-livery, is to it an excel<g ref="char:EOLhyphen"/>lent Ornament; ſo make thou ac<g ref="char:EOLhyphen"/>count that to have Feathers ſtick<g ref="char:EOLhyphen"/>ing here and there on thy Head will embelliſh and ſet thy Crown out rarely. None dare upbraid thee, that like a Beggar thou haſt lain on the Straw, or like a <hi>travelling</hi> Pedler on muſty flocks: for thoſe Feathers will riſe up as. Witneſſes to choak him that ſays ſo, and to prove that thy Bed was of the ſof<g ref="char:EOLhyphen"/>teſt Down. When your Nobleſt Gallants conſecrate their Hours to their Miſtreſſes, and to Revelling, they wear Feathers then chiefly in their Hats, being one of the faireſt Enſignes of their Bravery: But be thou a Reveller or Mi<g ref="char:EOLhyphen"/>ſtreſs-ſerver all the Year long,
+<pb n="39" facs="tcp:64540:31"/> by wearing Feathers in thy Hair, whoſe length before the rigorous edge of any Puritanical pair of <hi>scizzars</hi> ſhould ſhorten the bredth of a finger, let the three Huſwive<g ref="char:EOLhyphen"/>ly Spinſters of <hi>Deſtiny</hi> rather cur<g ref="char:EOLhyphen"/>tal the thred of thy life. Oh no! Long Hair is the only Net that Women ſpread abroad to entrap men in: And why ſhould not men be as far above Women in that Commodity, as they go beyond men in others? The <hi>Merry Greeks</hi> were called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Long<g ref="char:EOLhyphen"/>haired. Looſe not thou (being an honeſt <hi>Trojan)</hi> that Honor, ſee<g ref="char:EOLhyphen"/>ing it will more fairly become thee. Graſs is the Hair of the earth, which ſo long as it is ſuffer<g ref="char:EOLhyphen"/>ed to grow, it carries a moſt ex<g ref="char:EOLhyphen"/>cellent Colour; but when the Sun-burnt Clown makes his <hi>Mowes</hi> at it, and (like a <hi>Barber)</hi> ſhaves it off to the ſtumps, it withers, and
+<pb n="40" facs="tcp:64540:32"/> is good for nothing, but to be <hi>truſt,</hi> up and thrown among the Jades. How ugly is a blad-Pate? it looks like a Face wanting a Noſe, or like ground eaten bare with the Arrows of Archers, Whereas a Head all hid in Hair gives even to the moſt deformed Face a ſweet Complexion, and looks like a <hi>Meadow</hi> newly marri<g ref="char:EOLhyphen"/>ed to the <hi>Spring:</hi> which beauty in <hi>Chriſtians</hi> the <hi>Turks</hi> envying, they no ſooner lay hold on one, but the firſt Mark they ſet upon him to make him know that he is a Slave, is to ſhave off all his Hair cloſe to his Skull. A <hi>Mahumetical</hi> cru<g ref="char:EOLhyphen"/>elty therefore it is, to ſtuff Balls with that which when it is once loſt, all the <hi>hare-ſhooters</hi> in the world may ſweat their Hearts out, and yet hardly <hi>catch</hi> it again. Long Hair will make thee look dread<g ref="char:EOLhyphen"/>fully to thine Enemies, and manly
+<pb n="41" facs="tcp:64540:32"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o thy Friends: It is in Peace an Ornament, in War a ſtrong Hel<g ref="char:EOLhyphen"/>met; it blunts the edge of a Sword, and deads the leaden thump of a Bullet. In Winter it is a warm Night-cap, in Summer a cooling Fan of Feathers.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="42" facs="tcp:64540:33"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>
+                     <hi>Inſtructions how a young Gal<g ref="char:EOLhyphen"/>lant ſhould behave, himſelf at an</hi> Ordinary.</p>
+               </argument>
+               <p>FIrſt, Diligently having enqui<g ref="char:EOLhyphen"/>red out an <hi>Ordinary</hi> of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>largeſt reckoning,</hi> whither mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of your Gallants do reſort; let <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be your uſe to repair thither about half an hour after Eleven, for then you ſhall find moſt of your Fa<g ref="char:EOLhyphen"/>ſhion-Mongers planted in the Room waiting for Meat.</p>
+               <p>Being arrived in the Room, Sa<g ref="char:EOLhyphen"/>lute not any but thoſe of your own Acquaintance: walk up and down as ſcornfully and as careleſly as a Gentleman-Uſher. Select ſome friend, having firſt thrown off your Cloak, to walk up and
+<pb n="43" facs="tcp:64540:33"/> down the Room with you; let him be Suited, if you can, worſe by far than your ſelf; for by this means he will publiſh you better than a Tennis-Court or a Play<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe. Diſcourſe as much as you can, no matter to how little pur<g ref="char:EOLhyphen"/>poſe: if you but make a noiſe, and laugh in Faſhion, and have a good <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>im Face to promiſe quarrelling, you ſhall be much obſerved.</p>
+               <p>If you be a Souldier, and have had any Command, talk how of<g ref="char:EOLhyphen"/>ten you have been in ſuch an Acti<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as in all <hi>the Three Laſt</hi> Dutch-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ights; and that you fought ſo ſtoutly, that you were fain to ſhift your Ship twice; and that when the Captain of your Ship was kil<g ref="char:EOLhyphen"/>led (being then but Lieutenant) you fought three hours with <hi>Trump,</hi> and forced him to take his old courſe when worſted, to ſwim like a Water-rat; and that His
+<pb n="44" facs="tcp:64540:34"/> His Grace the Duke of <hi>Monmou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> having heard of your Service in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fleet (then cry, <hi>But no matter</hi> Sirs, <hi>a man ought not to ſpeak fort his own praiſe;</hi> upon which the Company will conclude you ſpea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truth) he begged of the Prince that he might have you with him at the taking of <hi>Maeſtricht,</hi> and that the next man that entered after his good Grace, was you ſelf; and though you ſay it and ſhould not ſay it, you were he that countermined all their Mines; and that for ought you know, had you not been there, the buſine<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> had never been effected. And if you perceive that the untravelled Company take this down well, ply them with more ſuch Stuff; as how you, as ſimple a Fellow as you ſeem to be, have In<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>preted be<g ref="char:EOLhyphen"/>tween the <hi>French</hi> King and the <hi>Emperour;</hi> and that will be an
+<pb n="45" facs="tcp:64540:34"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cellent way to publiſh your Lan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uages, if you have them; if not, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et ſome fragments of <hi>French,</hi> or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall parcels of <hi>Italian</hi> to fling a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out the Table: but beware how <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou ſpeak any <hi>Latin</hi> there; your <hi>Ordinaries</hi> moſt commonly have no more to do with <hi>Latin,</hi> than a <hi>deſperate</hi> Town or Garriſon hath.</p>
+               <p>If you be a Courtier, diſcourſe of the obtaining Suits, of your Miſtreſſes favours: Make inquiry if any Gentleman at the Board have any Suit to get, which he would uſe the good means of a Great Mans intereſt with the King; and withal (if you have not ſo much Grace left in you as to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luſh) that you are (thanks to your Stars) in mighty Credit, though in your own Conſcience you know that you dare not (but only upon the Priviledge of hand<g ref="char:EOLhyphen"/>ſome Cloaths) preſume to peep
+<pb n="46" facs="tcp:64540:35"/> within the Court-gates; yea, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> rather than your tongue ſhould n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be heard in the room, diſcourſe ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> often this Lady hath ſent h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Coach for you, and how often yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have ſweat in the Tennis-Court with that Great Lord or Duke.</p>
+               <p>If you be a Poet, and come into the Ordinary (though it can be no great Glory to be an ordinary <hi>Poet)</hi> Order your ſelf thus: Ob<g ref="char:EOLhyphen"/>ſerve no man, though the Poet Laureat ſhould be there himſelf. Put not off your Hat to that Gen<g ref="char:EOLhyphen"/>tleman to day at Dinner, to whom not two Nights ago you were be<g ref="char:EOLhyphen"/>holden for a Supper; but after a <hi>turn</hi> or two in the Room, take oc<g ref="char:EOLhyphen"/>caſion (pulling out your Gloves) to have ſome <hi>Epigram</hi> or <hi>Satyr</hi> fa<g ref="char:EOLhyphen"/>ſtened in one of them, that may (as it were againſt your con<g ref="char:EOLhyphen"/>ſent) offer it ſelf to the Gentle<g ref="char:EOLhyphen"/>men: they will preſently deſire it;
+<pb n="47" facs="tcp:64540:35"/> but without mighty Conjuration from them do not read it: Marry, if you chance to get into your hands any witty thing of another mans that is ſomething better, I would counſel you then, if de<g ref="char:EOLhyphen"/>mand be made who compoſed it; you may ſay a very Learned Gen<g ref="char:EOLhyphen"/>tleman, and a worthy Friend; and this ſeeming to lay it on another man, will be counted modeſty in you, or a ſigne that you are not ambitious of praiſe, or elſe that you dare not take it upon you for fear of the ſharpneſs it carries with it: beſides it will add much to your Fame, to let your Tongue walk fa<g ref="char:EOLhyphen"/>ſter than your Teeth, though you be never ſo hungry; and rather than you ſhould ſit like a dumb Coxcomb, to repeat by heart ei<g ref="char:EOLhyphen"/>ther ſome Verſes of your own, or a<g ref="char:EOLhyphen"/>ny other mans, ſtretching even ve<g ref="char:EOLhyphen"/>ry good Lines upon the rack of
+<pb n="48" facs="tcp:64540:36"/> Cenſure, though it be againſt Law, Honeſty or Conſcience, it may chance ſave you the price of your <hi>Ordinary.</hi> Marry, I would further intreat our Poet to be in League with the Miſtreſs of the <hi>Or<g ref="char:EOLhyphen"/>dinary;</hi> becauſe from her, upon condition that he will but Rime Knights and Gentlemen to her Houſe, he may eaſily make up his Mouth at her coſt <hi>gratis.</hi>
+               </p>
+               <p>Thus much for particular men: but in general, let all that are in <hi>Ordinary-</hi>pay, march after the ſound of theſe Directions. Before the meat come ſmoaking to the Board, our Gallant muſt draw out his <hi>Tobacco-Pox,</hi> the Ladle for the cold Snuff into the Noſtril, the Tongues and Stopper: all which Artillery, may be of Gold or Silver (if he can reach to the price of it) it will be a reaſonable uſeful Pawn at all times, when the Current
+<pb n="49" facs="tcp:64540:36"/> of his Money falls out to run low.</p>
+               <p>When you are ſet down to Din<g ref="char:EOLhyphen"/>ner, you muſt eat as impudently as can be. When your Knight is up<g ref="char:EOLhyphen"/>on the <hi>ſtewed Mutton,</hi> be you pre<g ref="char:EOLhyphen"/>ſently in the boſom of the <hi>Gooſe;</hi> when your Juſtice of Peace is Inuckle-deep in the <hi>Gooſe,</hi> you may without diſparagement fall very manfully to your <hi>Woodeocks.</hi> You may riſe in Dinner-time to aſk for a <hi>Cloſe-ſtool,</hi> proteſting to all the Gentlemen, that it coſts you an hundred pounds <hi>per Annum</hi> for Phyſick, beſides the Annual Pen<g ref="char:EOLhyphen"/>ſion which your wife allows her Doctor. And if you pleaſe, you may invite ſome ſpecial Friend of yours from the Table, to hold Di<g ref="char:EOLhyphen"/>ſcourſe with you as you fit in that <hi>withdrawing Chamber;</hi> from whence being returned again to the Board, you ſhall ſharpen the
+<pb n="50" facs="tcp:64540:37"/> wits of all the eating Gallants a<g ref="char:EOLhyphen"/>bout you, and do them great plea<g ref="char:EOLhyphen"/>ſure, to aſk what <hi>Pamphlets</hi> or <hi>Poems</hi> a man might think fitteſt to <hi>wipe his Tail with:</hi> And in pro<g ref="char:EOLhyphen"/>pounding this Queſtion, you may abuſe the Works of any man, de<g ref="char:EOLhyphen"/>prave his Writings that you can<g ref="char:EOLhyphen"/>not equal, and purchaſe to your ſelf in time the name of a ſevere <hi>Critick.</hi>
+               </p>
+               <p>After Dinner, every man as his bu<g ref="char:EOLhyphen"/>ſineſs leads him, ſome to <hi>Dice,</hi> ſome to <hi>Plays,</hi> ſome to take up Friends in the <hi>Court,</hi> ſome to take up mony in the City. And thus as the <hi>People</hi> is ſaid to be a <hi>Beaſt of many heads</hi> (yet all thoſe heads like <hi>Hydra's)</hi> overgrowing as various in their <hi>horns,</hi> as wondrous in their <hi>bud<g ref="char:EOLhyphen"/>ding</hi> and <hi>branching;</hi> ſo in an <hi>Ordi<g ref="char:EOLhyphen"/>nary</hi> you ſhall find the variety of a whole Kingdom in a few <hi>Apes</hi> of the Nation</p>
+               <pb n="51" facs="tcp:64540:37"/>
+               <p>You muſt not ſwear in your Di<g ref="char:EOLhyphen"/>cing, for that argues a violent im<g ref="char:EOLhyphen"/>patience to depart from your mo<g ref="char:EOLhyphen"/>ney, and in time will betray a mans need; take heed of it. No, if you be at <hi>Hazard</hi> or <hi>Put,</hi> you ſhall ſit as patiently (though you loſe half a years exhibition) as a diſarmed Gentleman does when he is in the unmerciful hands of Ser<g ref="char:EOLhyphen"/>jeants. Yet I will allow you to ſwear privately, and tear ſix or ſeven ſcore pair of <hi>Cards,</hi> be the damnation of ſome dozen bail of <hi>vice,</hi> and forſwear <hi>Play</hi> a thouſand times in an hour, but not ſwear.</p>
+               <p>At your Twelve Penny <hi>Ordina<g ref="char:EOLhyphen"/>ry</hi> you may give any young <hi>Knight</hi> (if he be but one degree towards the Equinoctial of the ſalt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellar) leave to pay for the wine; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd he ſhall not refuſe it, though it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e but a week before the recei<g ref="char:EOLhyphen"/>ving of his Quarters Rent, which
+<pb n="52" facs="tcp:64540:38"/> is a time albeit of good hope, yet of preſent neceſſity.</p>
+               <p>There is another <hi>Ordinary,</hi> to which your <hi>London-<g ref="char:V">Ʋ</g>ſurer,</hi> your <hi>ſtale Batchelor,</hi> and your <hi>thrifty Attorney</hi> do reſort; the price three pence: the Rooms as full as a Goal, and indeed divided into ſe<g ref="char:EOLhyphen"/>veral Wards, like the beds of an Hoſpital. The Complement be<g ref="char:EOLhyphen"/>tween theſe is not much, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words few; for <hi>the Belly hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ears:</hi> every mans eye here is upon the other mans Trencher, to not<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whether his fellow lurch him o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no. If they chance to Diſcourſe 'tis of nothing but of Statutes Bonds, Recognizances, Fines, Re<g ref="char:EOLhyphen"/>coveries, Rents, Subſidies, Inclo<g ref="char:EOLhyphen"/>ſures, Indictments, Outlaries Feoffments, Judgments, Commiſ<g ref="char:EOLhyphen"/>ſions, Banckrouts, Amercements and ſuch like horrible matter. can finde nothing in this <hi>Ordinary</hi>
+                  <pb n="53" facs="tcp:64540:38"/> worthy the ſitting down for; there<g ref="char:EOLhyphen"/>fore the Cloth ſhall be taken away; and thoſe that are thought good enough to be Gueſts here, ſhall be too baſe to be waiters at our Grand <hi>Ordinary,</hi> at which your Gallant taſtes theſe Commodities; he ſhall fare well, enjoy good Company, receive all the News e're the Poſt can deliver his Packet, Proclaim his good Cloaths, know this man to drink well, that to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed ſtoutly; he ſhall, if he be minded to Travel, put out mony upon his Return, and have hands enough to receive it upon any terms of repayment: and no Que<g ref="char:EOLhyphen"/>ſtion, if he be poor, he ſhall now and then light upon ſome <hi>Gull</hi> or other, whom he may bubble (af<g ref="char:EOLhyphen"/>ter the Gentile Faſhion) of money. By this time the parings of <hi>Fruit</hi> and <hi>Cheeſe</hi> are in the Voyder, <hi>Cards</hi> and <hi>Dice</hi> lie ſtinking in the fire;
+<pb n="54" facs="tcp:64540:39"/> ſome are gone to one <hi>Theatre,</hi> ſome to the other. Let us take a pair of Oars for <hi>Dorſet-ſtairs,</hi> and ſo in to the <hi>Theatre</hi> after them as faſt as we can.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="55" facs="tcp:64540:39"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>
+                     <hi>Inſtructions for a young Gal<g ref="char:EOLhyphen"/>lant how to behave him<g ref="char:EOLhyphen"/>ſelf in the</hi> Play-houſe.</p>
+               </argument>
+               <p>THe <hi>Theatre</hi> is your <hi>Poets Royal Exchange,</hi> upon which their <hi>Muſes</hi> (that are now turned to Merchants) meeting, barter a<g ref="char:EOLhyphen"/>way that light Commodity of words, for a fighter ware than words, <hi>Plandities,</hi> and the breath of the great Beaſt, which (like the threatnings of two Cowards) vaniſh into Air.</p>
+               <p>The <hi>Play-houſe</hi> is free for en<g ref="char:EOLhyphen"/>tertainment, allowing Room as well to the <hi>Farmers Son</hi> as to a <hi>Templer;</hi> yet it is not fit that he whom the moſt Taylors bills make room for when he comes ſhould
+<pb n="56" facs="tcp:64540:40"/> be baſely like a Viol, caſed up in a corner: Therefore, I ſay, let our Gallant (having paid his <hi>half Crown,</hi> and given the Door-keep<g ref="char:EOLhyphen"/>er his <hi>Ticket)</hi> preſently advance himſelf into the middle of the <hi>Pit,</hi> where having made his Honor to the reſt of the Company, but eſpe<g ref="char:EOLhyphen"/>cially to the Vizard-Maſks, let him pull out his Comb, and ma<g ref="char:EOLhyphen"/>nage his flaxen Wig with all the Grace he can. Having ſo done, the next ſtep is to give a hum to the <hi>China-Orange-wench,</hi> and give her her own rate for her Oranges (for 'tis below a <hi>Gentleman</hi> to ſtand haggling like a <hi>Citizens wife)</hi> and then to preſent the faireſt to the next Vizard-mask. And that I may incourage our Gallant not like the Trades-man to ſave a ſhilling, and ſo ſit but in the Middle-Galle<g ref="char:EOLhyphen"/>ry, let him but conſider what large comings-in are purſed up ſitting in the <hi>Pit.</hi>
+               </p>
+               <p n="1">
+                  <pb n="57" facs="tcp:64540:40"/>1. Firſt, A conſpicuous Emi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence is gotten, by which means the beſt and moſt eſſential parts of a Gentleman, as his fine Cloaths and Perruke, are perfectly reveal<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="2">2. By ſitting in the <hi>Pit,</hi> if you be a Knight, you may happily get you a Miſtreſs; which if you would, I adviſe you never to be abſent when <hi>Epſome Wells</hi> is plaid: for,
+<q>
+                     <hi>We ſee the</hi> Wells <hi>have</hi> 
+                     <note place="margin">
+                        <hi>Empreſs</hi> of <hi>Moracco</hi> in the <hi>Protegue.</hi>
+                     </note> 
+                     <hi>ſtoln the</hi> Vizard<g ref="char:EOLhyphen"/>masks <hi>away.</hi>
+                  </q>
+               </p>
+               <p>But if you be but a meer <hi>Fleetſtreet</hi> Gentleman, a Wife: but aſſure your ſelf, by your continual reſidence there, you are the firſt and princi<g ref="char:EOLhyphen"/>pal man in election to begin the number of <hi>We three.</hi>
+               </p>
+               <p>It ſhall Crown you with rich
+<pb n="58" facs="tcp:64540:41"/> Commendation, to laugh aloud in the midſt of the moſt ſerious and ſudden Scene of the terribleſt Tra<g ref="char:EOLhyphen"/>gedy, and to let the <hi>Clapper</hi> (your <hi>Tongue)</hi> be toſſed ſo high, that all the Houſe may <hi>ring</hi> of it: for by talking and laughing, you heap <hi>Pelion</hi> upon <hi>Oſſa,</hi> Glory upon Glo<g ref="char:EOLhyphen"/>ry: as firſt, all the eyes in the Gal<g ref="char:EOLhyphen"/>leries will leave walking after th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Players, and only follow you: th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt Pedantick Perſon in the Houſe ſnatches up your name; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when he meets you in the Streets, he'l ſay, <hi>He is ſuch a Gallant;</hi> and the people admire you.</p>
+               <p>Secondly, You publiſh your tem<g ref="char:EOLhyphen"/>perance to the world, in that you ſeem not to reſort thither to taſte vain Pleaſures with an hungry Ap<g ref="char:EOLhyphen"/>petite; but only as a Gentleman to ſpend a fooliſh hour or two, be<g ref="char:EOLhyphen"/>cauſe you can do nothing elſe.</p>
+               <p>Now Sir, if the Poet be a fellow
+<pb n="59" facs="tcp:64540:41"/> that hath <hi>Lampoon'd</hi> or <hi>libelled</hi> you, or hath had a flirt at your Miſtreſs, you ſhall diſgrace him worſe than toſſing him in a Blan<g ref="char:EOLhyphen"/>ket, or giving him the Baſtinado in a Tavern, if in the middle of the Play you ariſe with a ſkrew'd and diſcontented face (as if you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad the griping in the Guts) and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e gone; and further to vex <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, mew at paſſionate Speeches, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lare at merry, find fault with the Muſick, whiſtle at the Songs, and above all, curſe the Sharers, that whereas the very ſame day you had beſtowed five pounds for an embroidered Belt, you encounter with the very ſame on the Stage, when the Belt-maker ſwore the impreſſion was new but that morn<g ref="char:EOLhyphen"/>ing.</p>
+               <p>To conclude, hoard up the fi<g ref="char:EOLhyphen"/>neſt Play-ſcraps you can get, up<g ref="char:EOLhyphen"/>on which your lean Wit may moſt
+<pb n="60" facs="tcp:64540:42"/> ſavourly feed for want of other ſtuff; for this is only Furniture for a Courtier that is but a new Be<g ref="char:EOLhyphen"/>ginner, and is but in his <hi>A B C</hi> of Complement. The next places that are filled after the <hi>Play<g ref="char:EOLhyphen"/>houſes</hi> be emptied, are <hi>Taverns.</hi> In<g ref="char:EOLhyphen"/>to a <hi>Tavern</hi> let us then march, where the Brains of one Hogſhead muſt be beaten out to make up a<g ref="char:EOLhyphen"/>nother.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="61" facs="tcp:64540:42"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>
+                     <hi>Inſtructions how a young Gal<g ref="char:EOLhyphen"/>lant ſhould behave himſelf in a</hi> Tavern.</p>
+               </argument>
+               <p>WHoſoever deſires to be ac<g ref="char:EOLhyphen"/>counted a well-wiſher to the Publike, whether he be a Country-Gentleman that brings his wife up to learn the Faſhions, ſee the Tombs at <hi>Weſtminſter,</hi> the Lyons in the Tower, or take Phy<g ref="char:EOLhyphen"/>ſick; or elſe is ſome young Far<g ref="char:EOLhyphen"/>mer, who many times makes his wife (in the Country) believe he hath Suites in Law, becauſe he will come up to his Letchery; be he of what ſtamp he will that hath mony in his Purſe, and a good Conſcience to ſpend it, my coun<g ref="char:EOLhyphen"/>ſel is, that he take his continual
+<pb n="62" facs="tcp:64540:43"/> Diet at a <hi>Tavern,</hi> which is the on<g ref="char:EOLhyphen"/>ly Rendezvouz of boon Compa<g ref="char:EOLhyphen"/>ny, and the Drawers the moſt nim<g ref="char:EOLhyphen"/>ble, the moſt bold, and moſt ſud<g ref="char:EOLhyphen"/>den Proclaimers of your largeſt Bounty.</p>
+               <p>Having put your ſelf into an Equipage, your office is to enquire out thoſe <hi>Taverns</hi> which are beſt cuſtomed, whoſe Maſters are oft<g ref="char:EOLhyphen"/>neſt drunk; and ſuch as ſtand far<g ref="char:EOLhyphen"/>theſt from the <hi>Counters;</hi> where landing your ſelf and your follow<g ref="char:EOLhyphen"/>ers, your firſt Complement ſhall be, to grow moſt inwardly acquaint<g ref="char:EOLhyphen"/>ed with the Drawers, to learn their names, as <hi>Jack</hi> and <hi>Will,</hi> and <hi>Tom;</hi> to dive into their Inclinati<g ref="char:EOLhyphen"/>ons, as, whether this fellow uſeth the Fencing-School, this the Dan<g ref="char:EOLhyphen"/>cing-School; whether that young Conjurer (in Hogſheads) at Mid<g ref="char:EOLhyphen"/>night keeps a <hi>Gelding</hi> now and then to viſit his <hi>Cockatrice;</hi> or
+<pb n="63" facs="tcp:64540:43"/> whether he loves <hi>Dogs,</hi> or be ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted to any other eminent and Gentleman-like quality; and pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt your ſelf to be extremely in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove, and that you ſpend much <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ony in a year upon any of thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xerciſes, which you perceive is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llowed by them. The uſe which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou ſhould make of this familiari<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, is this; if you want mony five <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſix days together, you may ſtill <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay the Reckoning with this moſt Gentleman-like Language, <hi>Boy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ch me mony from the Bar.</hi> Be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>des, you ſhall be ſure (if there be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne Fawcet that can betray neat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>une to the Bar) to have that ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igned before you ſooner than better and a worthier Perſon.</p>
+               <p>For your Drink, let not your <hi>Phyſitian</hi> confine you to any one <hi>particular Liquor:</hi> for as it is very equiſite that a Gentleman ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot always be plodding in one
+<pb n="64" facs="tcp:64540:44"/> Art, but rather be a general Scho<g ref="char:EOLhyphen"/>lar (that is, to have a lick at all ſorts of Learning, and away) ſo 'tis not fitting a man ſhould trouble his head with ſucking at one Grape.</p>
+               <p>Your Diſcourſe at the Table muſt be ſuch, as that which you ut<g ref="char:EOLhyphen"/>ter at an Ordinary; your Behavi<g ref="char:EOLhyphen"/>our the ſame, but ſomewhat more careleſly: for where your Ex<g ref="char:EOLhyphen"/>pence is great, let your modeſty be<g ref="char:EOLhyphen"/>leſs; and though you ſhould he mad in a <hi>Tavern,</hi> the largeneſs of the <hi>Items</hi> will bear with your in<g ref="char:EOLhyphen"/>civility; you may without prick to your Conſcience ſet the want of your Wit againſt the ſuperfluity of their Reckonings. Again, inquire what Gallants ſup in the next Room; and if there be any of your Acquaintance, do not you (after the City-faſhion) ſend them in a Bottle of Wine, and your
+<pb n="65" facs="tcp:64540:44"/> name ſweetned in two pitiful pa<g ref="char:EOLhyphen"/>pers of Sugar, with ſome ſimple A<g ref="char:EOLhyphen"/>pology cram'd in the mouth of a Drawer: No, no, that's below a Gentleman; nor when the terrible Reckoning (like an Indictment) bids you hold up your hand, and that you muſt anſwer it at the Bar, you muſt not abate one penny in any particular, but only caſt your eye upon the <hi>Totalis,</hi> and no fur<g ref="char:EOLhyphen"/>ther: for to traverſe the Bill, would letray you to be acquainted with the rates of the Market; nay more, it would make the Vintner believe you were <hi>Familias,</hi> and kept a Houſe, which I will aſſure you is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot now in faſhion.</p>
+               <p>At your departure forth of the Houſe, to kiſs mine Hoſteſs over the Bar, or to accept of the courte<g ref="char:EOLhyphen"/>ſie of the Cellar, or to bid any of the Vintners good night, is as com<g ref="char:EOLhyphen"/>mendable as for a Barber after
+<pb n="66" facs="tcp:64540:45"/> ming to lave your face with Roſe<g ref="char:EOLhyphen"/>watet, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>
+                     <hi>Inſtructions for a young Gal<g ref="char:EOLhyphen"/>lant how to behave himſelf paſſing through the</hi> City <hi>at all hours of the night, and how to paſs by any</hi> Watch.</p>
+               </argument>
+               <p>AFter the ſound of <hi>Bottles</hi> is out of your Ears, and that the ſpirit of <hi>Wine</hi> and <hi>Tobacco</hi> walks in your Brain, the Tavern<g ref="char:EOLhyphen"/>door being ſhut upon your back, paſs through the wide and high ſtreets in the City; and if your means cannot reach to the keeping of a Boy, hire one of the Drawers to be as a Lanthorn unto your feet, and to light you home; and ſtill as you approach near any Night-walker,
+<pb n="67" facs="tcp:64540:45"/> that is up as late as your ſelf, curſe and ſwear (like one that ſpeaks <hi>High-Dutch)</hi> in a lofty voice, becauſe your man hath uſed you ſo like a Raskal in not waiting upon you; and vow the next morning to pull his blew Li<g ref="char:EOLhyphen"/>very over his ears; though if your Chamber were well ſearched, you give only 6 d. a week to ſome old woman to make your Bed, and that ſhe is all the Servant that you give wages to. If you ſmell a <hi>Watch</hi> (and that you may eaſily do, for commonly they eat Oni<g ref="char:EOLhyphen"/>ons to keep themſelves in ſleep<g ref="char:EOLhyphen"/>ing, which they account a Medi<g ref="char:EOLhyphen"/>cine againſt the cold) and you come within danger of their brown Bills, let him that is your Candle<g ref="char:EOLhyphen"/>ſtick, let <hi>Ignis fatuus,</hi> I ſay, being within reach of the Conſtables<g ref="char:EOLhyphen"/>ſtaff, ask aloud, Sir <hi>Giles,</hi> or Sir <hi>Abram,</hi> will you turn this way, or
+<pb n="68" facs="tcp:64540:46"/> down that Street? And if the Cen<g ref="char:EOLhyphen"/>tinel and his Court of Guard ſtand ſtrictly upon his Martial Law, and cry <hi>Stand,</hi> commanding you to give the <hi>Word,</hi> and to ſhew reaſon why your Ghoſt walks ſo late; do it in ſome jeſt: or if you read a <hi>Mittimus</hi> in the Conſtables Book, counterfeit your ſelf to be a <hi>French-man,</hi> a <hi>Dutchman,</hi> or any other Nation whoſe Country is at peace with your own; and you may paſs: for being not able to underſtand you, they cannot by the Cuſtom of the City take your examination, and ſo by conſe<g ref="char:EOLhyphen"/>quence they have nothing to ſay to you.</p>
+               <p>All the way as you paſs (eſpe<g ref="char:EOLhyphen"/>cially being approacht near ſome of the Gates) talk of none but Lords or ſuch Ladies with whom you have plaid at <hi>Cribbidge</hi> and <hi>Poſt and Pair,</hi> the very ſame day: and
+<pb n="69" facs="tcp:64540:46"/> being arrived at your Lodging<g ref="char:EOLhyphen"/>door, which I would counſel you to chooſe in ſome rich Citizens houſe, ſalute no man at parting but by the name of <hi>Sir</hi> (as though you had ſupped with <hi>Knights)</hi> although you had none in your company but <hi>Foot-boys.</hi>
+               </p>
+               <p>Happily it will be blown abroad that you and your ſhole of Gal<g ref="char:EOLhyphen"/>lants ſwam through ſuch an Ocean of Wine, that you danced ſo much money out at heels, and that in wild-fowl there flew away ſo much; and have your Bill of your Reckoning loſt on purpoſe, ſo that it may be publiſhed, will make you to be held in dear eſtimation: only the danger is, if that your re<g ref="char:EOLhyphen"/>velling gets your Creditors by the ears, for then look to have a peal of Ordnance thundering at your Chamber-door the next morning: but if either your Taylor, Mercer,
+<pb n="70" facs="tcp:64540:47"/> Habberdaſher, Silk-man, Linnen<g ref="char:EOLhyphen"/>draper, or Sempſter, ſtand like a Guard of <hi>Switzers</hi> about your Lodging, waiting your up-riſing; or if they miſs of that, your down<g ref="char:EOLhyphen"/>lying in one of the Counters, you have no means to avoid the gal<g ref="char:EOLhyphen"/>ling of their ſmall ſhot, but by ſending out a Light-Horſe-man, to call your Apothecary to your aid, who encountring this deſperate band of your Creditors, only with two or three Glaſſes in his hands, as though that day you purged, is able to drive them all to their holes like ſo many Foxes: for the name of taking Phyſick is a ſufficient <hi>Quietus eſt</hi> to any endangered Gentleman.</p>
+               <p>I could now <hi>breath</hi> you in a <hi>Fencing-School,</hi> and out of that <hi>Cudgel</hi> you into a <hi>Dancing-School;</hi> and to cloſe up this Feaſt, I could make Cockneys whoſe Fathers
+<pb n="71" facs="tcp:64540:47"/> have left them well, acknowledge themſelves infinitely beholding to me, to teaching them by familiar demonſtration how to ſpend their Patrimony, and to get themſelves names when their Fathers are dead: But leſt too many Diſhes ſhould caſt you into a ſurfet, I will now <hi>take away;</hi> yet ſo, that if I per<g ref="char:EOLhyphen"/>ceive you to reliſh this well, the reſt ſhall be in time prepared for you. Farewel.</p>
+            </div>
+            <div type="description">
+               <pb facs="tcp:64540:48"/>
+               <pb n="73" facs="tcp:64540:48"/>
+               <head>THE CHARACTER OF A Proud, Huffing, Self-con<g ref="char:EOLhyphen"/>ceited, Foppiſh and Laſcivious YOUNG GALLANT.</head>
+               <p>TO take him <hi>ab origine,</hi> he was born and ſhaped for his Cloaths; and had <hi>Adam</hi> not faln, he had lived to no pur<g ref="char:EOLhyphen"/>poſe: he gratulates therefore the firſt ſin, and fig-leaves that were an occaſion of bravery. His firſt care is his Dreſs, the next his Bo<g ref="char:EOLhyphen"/>dy; and in the uniting theſe two, lies his Soul and its Faculties. If he be qualified in Gaming notably
+<pb n="74" facs="tcp:64540:49"/> and extraordinarily, he is ſo much the more gentile and compleat, and he learns the beſt Oaths for the ſame purpoſe; theſe are ſome part of his Diſcourſe, and he is as curi<g ref="char:EOLhyphen"/>ous in their newneſs, as the Faſhi<g ref="char:EOLhyphen"/>on. He knows no man, that is not generally known: his Wit, like the Marigold, openeth with the Sun; and therefore he ariſes not a<g ref="char:EOLhyphen"/>fore ten of the Clock. He put more confidence in his <hi>words</hi> than <hi>meaning,</hi> and more in his <hi>pronun<g ref="char:EOLhyphen"/>ciation</hi> than his <hi>words.</hi> Occaſion is his <hi>Cupid,</hi> and he hath but one receipt of making love. He fol<g ref="char:EOLhyphen"/>lows nothing but Inconſtancie, ad<g ref="char:EOLhyphen"/>mires nothing but Beauty, and honours nothing but Fortune. He is a great News-monger; and his cenſure, like a ſhot, depends upon the Charging. You ſhall never ſee him ſerious, but with his Taylor, when he is in conſpiracie for the
+<pb n="75" facs="tcp:64540:49"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ext deviſe. He is furniſhed with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Jeſts as ſome wanderer with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermons, ſome three for all Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>regations; one eſpecially againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Scholar,</hi> a man to him much ri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iculous, whom he knows by no other definition, than <hi>ſilly fellow <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> black.</hi> He is a kind of a walk<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g Mercers-ſhop, and ſhews you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſtuff to day, and another to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orrow; an Ornament to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooms he comes in, as the fair bed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d hangings be, and is meerly ra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able accordingly, fifty or one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undred pounds, as his Suite is. He is ignorant of nothing, no not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thoſe things where ignorance is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he leſſer ſhame. He gets the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames of good Wits, and utters them for his Companions. He con<g ref="char:EOLhyphen"/>ſeſſeth Vices that he is guilty of, if they be in faſhion; and dares not ſalute a man in old Cloaths, or out of faſhion. There is not a publike
+<pb n="76" facs="tcp:64540:50"/> Aſſembly without him, and h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will take any pains for an acquain<g ref="char:EOLhyphen"/>tance there. He alloweth of no Judge but the eye. He is ſome what like the Salamander, and lives in the flame of love; which pains he expreſſeth; and no<g ref="char:EOLhyphen"/>thing grieves him ſo much, as the want of a Poet to make an iſſue in his love: yet he ſighs ſweetly, and ſpeaks lamentably; for his breath is perfumed, and his words a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wind. He laughs at every perſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whoſe <hi>Perruke</hi> ſits not well, or tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath not a pair of <hi>Pantaloons.</hi> His very eſſence he placeth in his out<g ref="char:EOLhyphen"/>ſide; and his chiefeſt prayers and wiſhes are, that his revenues may hold out ſo as to be able to keep his Miſs, and keep himſelf in a good Equipage. You ſhall never ſee him melancholy, but when he wants a new Suite, or fears a Ser<g ref="char:EOLhyphen"/>jeant. Again, he is <hi>Mountains</hi>
+                  <pb n="77" facs="tcp:64540:50"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nky, that climbing a Tree, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pping from bough to bough, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves you back his face; but com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g once to the top, he holds his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſe up into the wind, and ſhews <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou his Tayl. All his gay-glitter <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ews on him as if the Sun ſhone in puddle: for he is a ſmall Wine at will not laſt; and when he is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lling, he goes of himſelf faſter <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an miſery can drive him. You <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay obſerve, if you do but ob<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve him well, that his whole life <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but a counterfeit Patent, which evertheleſs makes many a Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y-Juſtice of Peace tremble. He theats young Gulls that are newly come to Town; and when the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeper of the Ordinary blames him for it, he anſwers him in his own Profeſſion, That <hi>the Wood<g ref="char:EOLhyphen"/>cock muſt be pluckt ere he be dreſt.</hi> He accounts baſhfulneſs the wic<g ref="char:EOLhyphen"/>ked'ſt thing in the world, and
+<pb n="78" facs="tcp:64540:51"/> therefore ſtudies Impudence: if all men were of his mind, all honeſty would be out of faſhion. He much frequents the two Theatres: picks up a Miſs, and pinches her fingers, and cryes, <hi>Damme, Madam, if you were but ſenſible of the paſſion that I have for you, and the mortal wounds that your beauty hath given me, you wou'd—</hi> and it may be he never ſaw her afore in his life: and if he cannot prevail with he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for—and he finds her ho<g ref="char:EOLhyphen"/>neſt, then he cries, <hi>Damye for a preciſe whore, What make you in the Pit here? the Twelve-penny Gallery and Foot-boys are good e<g ref="char:EOLhyphen"/>nough for you:</hi> and ſo leaves at<g ref="char:EOLhyphen"/>tacquing her. And if he lights of no other game, when the Play is done, if you mark his riſing, 'tis with a kind of walking Epilogue; mounts the Stage from the Pit, and walks to and fro the Stage, and
+<pb n="79" facs="tcp:64540:51"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mongſt the Scenes, to ſee if his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uite may paſs for currant. Scho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r he pretends himſelf, and ſays he has ſweat for it; but the truth is, he knows <hi>Cornelius</hi> better far than <hi>Tacitus:</hi> his ordinary and moſt uſual Sports (though not all) are Cock-fights, but moſt frequent Horſe-races; from whence he comes home dry-foundered; and when his Purſe hath caſt her Calf, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e goes down into the Country <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or a recruit; and if he cannot <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave as much as he demands, pre<g ref="char:EOLhyphen"/>ſently huffs the good-natured man his Father, or the provident wo<g ref="char:EOLhyphen"/>man his Mother: but at laſt, ha<g ref="char:EOLhyphen"/>ving wheadled ſomebody of a ſum of mony, up again he comes for <hi>London,</hi> the Play-houſe, the Ordinary, and the Tavern, where it is nothing with him, if any of the Drawers give him but a croſs word, nay, if they do not accent
+<pb n="80" facs="tcp:64540:52"/> their Syllables aright when they ſpeak to him, he preſently makes them meaſure their lenghts on the ground, and cracks their crowns with a Quart-Bottle, a Candle<g ref="char:EOLhyphen"/>ſtick, or any thing that comes next his hands; and if they do but offer to vindicate themſelves, <hi>Damye, are you not ſatisfied?</hi> away he goes, and it may be upon pretence of the Drawers abuſing him, builds a Sconce on the Houſe. The next houſe he comes into, if it be to Dinner or any Treat, he is ſo proud, that if he be not placed in the high<g ref="char:EOLhyphen"/>eſt Seat, he eats nothing, he pro<g ref="char:EOLhyphen"/>feſſeth to keep his Stomach for the Pheaſant or the Quail; and when they come in, he can eat nothing he hath been ſo cloyed with them that year, although they be the firſt he ſaw: he riſes up in a huff from Table, and it may be tick his reckoning, that he may keep
+<pb n="81" facs="tcp:64540:52"/> half a Crown in his Pocket to ſit <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Pit in the Play-houſe. He <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow and then, it may be, will go <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o hear a Sermon, only to ſhew his gay Cloaths and his flaxen Wig. In the ſpeculation of his good parts, his eyes, like a Drunkard's, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee all double; and his fancie, like <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n old mans Spectacles, make a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat letter in a ſmall print. He magines every place where he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omes his Theatre, and not a look ſtirring but his Spectator; and conceives mens thoughts to be very idle, that is, only buſie a<g ref="char:EOLhyphen"/>bout him. His walk is ſtill in the faſhion of a March, and like his O<g ref="char:EOLhyphen"/>pinion, unaccompanied with his eyes; moſt fixed upon his own perſon, or on others with reflexi<g ref="char:EOLhyphen"/>on to himſelf. If he hath done a<g ref="char:EOLhyphen"/>ny thing that hath paſſed with ap<g ref="char:EOLhyphen"/>plauſe, he is always re-acting it a<g ref="char:EOLhyphen"/>lone, and conceits the extaſie his
+<pb n="82" facs="tcp:64540:53"/> Hearers were in at every period. Another part of his Diſcourſe is Poſitions, and definitive Decrees, with <hi>thus it muſt be,</hi> and <hi>thus it is;</hi> and he will not humble him<g ref="char:EOLhyphen"/>ſelf to prove it. Methinks <hi>Virgi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> well expreſſes him in thoſe well<g ref="char:EOLhyphen"/>behav'd Ghoſts that <hi>Aeneas</hi> met with, that were friends to tal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with, and men to look on; but if he graſpt them, but air: ſo he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> one that lies kindly to you, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for good faſhion-ſake; and 'tis diſ<g ref="char:EOLhyphen"/>courteſie in you to believe him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his words are but ſo many fine and delicate Phraſes ſet together which ſerve equally for all men and are equally to no pur<g ref="char:EOLhyphen"/>poſe: each freſh encounter with a man, puts him to the ſame pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> again; and he goes over to you, what he ſaid to him was laſt wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him: he kiſſes your hand as h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kiſſed his before, &amp; is your humble
+<pb n="83" facs="tcp:64540:53"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rvant to be commanded; but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou ſhall intreat of him nothing; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s proffers are univerſal and gene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al, with exceptions as againſt all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rticulars: he will do any thing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or you; but if you urge him to his, he cannot; or to that, he is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gaged; but he will do any <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing (obſerve how complemental <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d obliging he is.) Promiſes he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccounts but a kind of unmanner<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> words, and in the expectation <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your Manners not to exact <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em; if you do, he wonders at our ill-breeding, that you cannot <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtinguiſh betwixt what is ſpoken <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d what is meant. No man gives <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tter ſatisfaction at the firſt, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes off more with the Elogie of fine Gentleman, until you know <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m better, and then you know <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m for nothing. Again, he is one <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at loves to gratifie the old man; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thus he boaſts himſelf the Ser<g ref="char:EOLhyphen"/>vant
+<pb n="84" facs="tcp:64540:54"/> of many Miſtreſſes, but a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are but his Luſt, to which only <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is faithful, and none beſides, and ſpends his beſt Blood and Spirit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Service. His Soul is the bound to his Body; and thoſe that aſſiſt him in this nature, the neareſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to it. No man abuſes more the name of <hi>Love,</hi> or thoſe whom he applies this name to: for his Love is like his Stomach, to feed on what he loves, and in the end to ſurfet and loath, till a freſh Appe<g ref="char:EOLhyphen"/>tite rekindle him; and it kindles o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any one ſooner, than who deſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beſt of him. No man laughs <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his ſin more than he, or is ſo ex<g ref="char:EOLhyphen"/>tremely tickled with the remem<g ref="char:EOLhyphen"/>brance of it; and he is more vio<g ref="char:EOLhyphen"/>lent to a modeſt ear, than to her <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> deflowr'd. A bawdy Jeſt enter deep into him, and whatſoeve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you ſpeak, he will draw to Baw<g ref="char:EOLhyphen"/>dry; and his Wit is ſeldom or e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er
+<pb n="85" facs="tcp:64540:54"/> ſo quick as here. There is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing more hard to his Perſwa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, than a chaſte man, no Eu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch; and makes a ſcoffing and inheard-of Wonder and Miracle, if you tell him but of a pure Virgin or a Maid. He hath many fine quips at the folly of <hi>plain-dealing;</hi> but his laſh is greateſt, and moſt of all, at <hi>Religion;</hi> yet he uſes this too, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd vertue and good words, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s leſs dangerouſly a Devil than a Saint. He aſcribes all honeſty to an unpractis'dneſs in the humours and converſations of his Fellow<g ref="char:EOLhyphen"/>town-Gallants; and Conſcience he adjudges and deems a thing fit only for Children. He ſcorns all that are ſo ſilly to truſt him; and only not ſcorns his Enemy, eſpeci<g ref="char:EOLhyphen"/>ally if as bad as himſelf, he fears him as a man well armed and pro<g ref="char:EOLhyphen"/>vided; and ſets boldly on good natures; as the moſt facile and eaſie
+<pb n="86" facs="tcp:64540:55"/> to be vanquiſhed. To conclude, he is generally and univerſally o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo bad a nature and diſpoſition, that no civilized perſon will either keep Company, or hold Corre<g ref="char:EOLhyphen"/>ſpondence with him; &amp; he diſlikes them as bad, if not worſe, than they him, and delights in no Com<g ref="char:EOLhyphen"/>pany but ſuch as are like himſelf; which is evident by that common Proverb, <hi>Birds of a Feather flock together:</hi> for his and his Compa<g ref="char:EOLhyphen"/>nions deſigne is nothing but to cheat the world with a fair out<g ref="char:EOLhyphen"/>ſhew, build Sconces in publike Houſes, cheat young innocent Gentlemen of their Eſtates, and be revenged upon thoſe <hi>inanimalia</hi> commonly called <hi>Glaſs-windows,</hi> as they paſs the ſtreets all hours of the night, and ſo to their Lodgings, or ſome Bawdy-houſe, where they get claps, die, and are buried no body knows how, or cares where.</p>
+            </div>
+            <div type="description">
+               <pb n="87" facs="tcp:64540:55"/>
+               <head>THE CHARACTER OF A True, Noble, Liberal, AND STAYED GENTLEMAN.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here is as great a di<g ref="char:EOLhyphen"/>ſtance between him and our huffing and ſelf-conceited Gal<g ref="char:EOLhyphen"/>lant, as there is be<g ref="char:EOLhyphen"/>tween us and the <hi>Antipodes.</hi> The former's delights and pleaſures conſiſt in fine Cloaths, gentile Oaths, as he calls them; and except you are as well
+<pb n="88" facs="tcp:64540:56"/> verſed in thoſe as himſelf, he will neither keep Company, or have any thing to do with you; unleſs he finds you of no great reach or underſtanding, and thereby he is raiſed in his expectation to bubble you out of a ſum of mony, of a Watch, or a Diamond-Ring; then he will be moſt complaiſant with you. And there is no man puts his brain to more uſe than he; for his whole life is a daily Invention, and each meal a new Stratagem. But now our true and noble-ſpiri<g ref="char:EOLhyphen"/>ted Gentleman is one that hath taken order with himſelf, and ſets a rule to all his pleaſures and de<g ref="char:EOLhyphen"/>lights; not too preciſe or too la<g ref="char:EOLhyphen"/>viſh, but keeps a juſt <hi>medium</hi> and <hi>decorum</hi> in every thing. He will keep company with none but in<g ref="char:EOLhyphen"/>genious perſons, and hates a Fop, and avoids him as much, as a Ma<g ref="char:EOLhyphen"/>riner doth <hi>Scylla</hi> or <hi>Charibdis;</hi> and
+<pb n="89" facs="tcp:64540:56"/> hath as great kindneſs for him as a Puritan hath for a Biſhop or Sur<g ref="char:EOLhyphen"/>plice. His whole life is as it were diſtinct in Method, and his Actions caſt up before; not looſed into the Worlds vanities, but gathered and contracted up in his ſtation; not ſcattered into many pieces of buſi<g ref="char:EOLhyphen"/>neſſes, but that one courſe he takes goes through with: one that is firm and ſtanding in his deſignes and purpoſes, not heaved off with each wind and paſſion; that ſquares<g ref="char:punc">▪</g> his Expence to his Coffers, and makes the total firſt, and then the <hi>Items;</hi> one that thinks what he does, and does what he ſaith, &amp; foreſees what he may do before he purpoſes: one whoſe <hi>[If I can]</hi> is more than anothers aſſurance, and his doubtful Tale before ſome mens Proteſtations; that is confi<g ref="char:EOLhyphen"/>dent of nothing in futurity, yet his Conjectures oft true Propheſies;
+<pb n="90" facs="tcp:64540:57"/> that makes a pauſe ſtill betwixt his ear and belief, and is not at all for<g ref="char:EOLhyphen"/>ward or haſty to ſay after others: one whoſe Tongue is ſtrung up like a Clock till the time, and then ſtrikes, and ſays much when he talks little; that can ſee the truth betwixt two wranglers, and ſees them agree in that they fall out upon; that ſpeaks no Rebellion in a bravery, or talks big from the ſpirit of Sack: a man temperate and cool in his paſſions, not eaſily betrayed by his Choler; that vies not Oath with Oath, nor heat with heat, but replies calmly to an angry man, and is too hard for him too. Duelliſt he is none, nor like our Huff, that is commonly moſt in<g ref="char:EOLhyphen"/>ſulting and courageous if he hath a Coward to deal with; labouring to take off this ſuſpition from him<g ref="char:EOLhyphen"/>ſelf: For the Opinion of Valour is a good Protection to thoſe that
+<pb n="91" facs="tcp:64540:57"/> dare not uſe it. No man is vali<g ref="char:EOLhyphen"/>anter than our Huff in civil Com<g ref="char:EOLhyphen"/>pany, and where he thinks no dan<g ref="char:EOLhyphen"/>ger may come of it; and he is the moſt ready to fall upon a Drawer or Tapſter, and thoſe that muſt not ſtrike again. Wonderful ex<g ref="char:EOLhyphen"/>ceptious and cholerick when he ſees men are unwilling and loath to give him occaſion; and you can<g ref="char:EOLhyphen"/>not pacifie him better, than by quarrelling with him; the hotter you grow, the more temperate man he is; he proteſts he always honoured you; and the more you rail upon him, the more he honours you; and you threaten him at laſt into a very quiet and modeſt man. The ſight of a Sword wounds him more ſenſibly than the ſtroak; for before that come, he is dead al<g ref="char:EOLhyphen"/>ready. Every man is his Maſter that dare beat him. For his friend he cares not for, as a man that car<g ref="char:EOLhyphen"/>ries
+<pb n="92" facs="tcp:64540:58"/> no ſuch terror as his Enemy, which for this cauſe is the more potent with him of the two; and men fall out with him on purpoſe to get courteſies from him, and be bribed again to a reconcilement. A man in whom no ſecret can be bound up: for the apprehenſion of each danger frightens him, and makes him bewray the Room and it. He is a Chriſtian meerly for fear of Hell-fire; and if any Religion could fright him more, he would be of that. Now it is quite con<g ref="char:EOLhyphen"/>trary between this our Huff and our diſcreet and Noble-ſpirited Gentleman: for he on the other ſide, though he ſometimes ſeems to be haughty and proud, yet in reality he is not: you may for<g ref="char:EOLhyphen"/>give him his looks for his worths ſake; for they are too proud to be baſe: one whom no rate can buy off from the leaſt piece of his free<g ref="char:EOLhyphen"/>dom,
+<pb n="93" facs="tcp:64540:58"/> and make him digeſt an un<g ref="char:EOLhyphen"/>worthy thought an hour. He can<g ref="char:EOLhyphen"/>not crouch to a Great man to poſ<g ref="char:EOLhyphen"/>ſeſs him, nor fall to the earth to re<g ref="char:EOLhyphen"/>bound never ſo high again; he ſtands taller on his own bottom, than others on the advantage<g ref="char:EOLhyphen"/>ground of Fortune, as having <hi>ſo<g ref="char:EOLhyphen"/>lidly</hi> that Honour of which <hi>Title</hi> is but the pomp; he does homage to no man for his great Stile ſake, but is ſtrictly juſt in the exaction of reſpect again; and will not bate you a Complement, though he doth not value them: he is more ſenſible of a neglect than an undo<g ref="char:EOLhyphen"/>ing, and ſcorns no man ſo much as his ſurly threatner: a man though he hath been abuſed, and taken an affront, yet is quickly laid down with ſatisfaction, and remits an in<g ref="char:EOLhyphen"/>jury upon the acknowledgement and confeſſion of it; one that ſtands not upon trifling punctilio's of honour, as taking the wall, the
+<pb n="94" facs="tcp:64540:59"/> right hand; but laughs at the ri<g ref="char:EOLhyphen"/>diculouſneſs of ſuch perſons that do ſtand upon it. Only to him<g ref="char:EOLhyphen"/>ſelf he is irreconcilable, whom he never forgives a diſgrace, but is ſtill ſtabbing himſelf with the thought of it; and no diſeaſe that he dies of ſooner. He is one that ſtrives more to be quit with his Friend than his Enemy. Fortune may kill him, but not deject him; not make him fall into an humbler key than before, but he is now loftier than ever in his own de<g ref="char:EOLhyphen"/>fence; you ſhall hear him talk ſtill after thouſands, and he becomes it better than thoſe that have it: he is one that is above the world and its drudgery; one that will do no<g ref="char:EOLhyphen"/>thing upon Command, though he would do it otherwiſe; and if ever he do evil, 'tis when he is dared to it: one who is not deep in Dra<g ref="char:EOLhyphen"/>pers, Mercers, or Silkmens Books, but pay, when he hath his Com<g ref="char:EOLhyphen"/>modities
+<pb n="95" facs="tcp:64540:59"/> delivered: one whom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ill hunting ſends home diſcon<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ented, and makes him ſwear <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t his Dogs and Family: one who keeps his Servants long, and alters not his Lodgings every week; not haſty to purſue every new Faſhion, nor yet over-preciſe, but gravely handſom, and to his place, which ſuites him better than his Taylor; active in the world without diſ<g ref="char:EOLhyphen"/>quiet, and careful without miſe<g ref="char:EOLhyphen"/>ry; yet neither ingulft in his plea<g ref="char:EOLhyphen"/>ſures, nor a ſeeker of buſineſs, but hath his hour for both. His pleaſures and paſtimes are ſometimes Read<g ref="char:EOLhyphen"/>ing Hiſtory, ſometimes Hunting, Hawking, Fowling and Fiſhing, &amp; ſometimes to ſee a Play; but not to appoint Aſſignations, or ſeek for Adventures; nor is his humor much allied to the Romance; that he can neither act without the di<g ref="char:EOLhyphen"/>ſtreſſed Lady; nor is it to meet his Friends there, nor to joyn him<g ref="char:EOLhyphen"/>ſelf
+<pb n="96" facs="tcp:64540:60"/> in a Squadron for ſome nota<g ref="char:EOLhyphen"/>ble and gallant exploit, as the o<g ref="char:EOLhyphen"/>ther Gallant (Huff) doth, who af<g ref="char:EOLhyphen"/>ter the Play is done, is next for a Houſe of Pleaſure, and then the <hi>French</hi> Houſe, where having re<g ref="char:EOLhyphen"/>peated their former Gallan<g ref="char:EOLhyphen"/>try, and heightned their courage with Eloquence and Wine, they are fit for any thing except Civi<g ref="char:EOLhyphen"/>lity. In theſe brave humors hath many a <hi>Watchman</hi> been forced to meaſure his length upon the ground, the poor <hi>Conſtable</hi> been put beſide the gravity of his In<g ref="char:EOLhyphen"/>terrogatories;—many a time<g ref="char:EOLhyphen"/>rous female hath been forced to fill the Air with ſhrieks and bewail<g ref="char:EOLhyphen"/>ings, whileſt during this cloſe en<g ref="char:EOLhyphen"/>gagement the thundering Can<g ref="char:EOLhyphen"/>non of their Oaths have with hor<g ref="char:EOLhyphen"/>rour filled the Neighbourhood. But the true-bred Gentleman ſits the Play out patiently, without flinging his eyes abroad to ken the
+<pb n="97" facs="tcp:64540:60"/> Vizard-Maſks, and ſo board them; where if he obſerves any thing that is good or ingenious, he turns it into practice; and after the Play is done, home he goes to his Lodg<g ref="char:EOLhyphen"/>ing, and can there laugh at the Fopperies of ſome Perſons that were preſented: he can pick good out of the worſt evil; and you ſhall never know him live above his Eſtate, which too too many now adays do, who are of <hi>Horace'</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Opinion, <hi>Fugere cras quaerere.</hi> He is a man that ſeldom laughs vio<g ref="char:EOLhyphen"/>lently, but his mirth is a chearful look: he affects nothing ſo whol<g ref="char:EOLhyphen"/>ly, that he muſt be a miſerable man when he looſes it: one that loves his Credit, not this word <hi>Reputa<g ref="char:EOLhyphen"/>tion;</hi> yet can ſave both without a Duel; whoſe Entertainments to thoſe of a higher rank are reſpect<g ref="char:EOLhyphen"/>ful, not only flaſh and meer Com<g ref="char:EOLhyphen"/>plement. A man he is well poized
+<pb n="98" facs="tcp:64540:61"/> in all humours, in whom Nature ſhewed moſt Geometry. At your firſt acquaintance with him, he is exceeding kind, obliging, and friendly, and at your twentieth meeting after friendly ſtill: he re<g ref="char:EOLhyphen"/>lieves the poor at his door, and the ſick with his eſtate: he can li<g ref="char:EOLhyphen"/>ſten to a fooliſh diſcourſe with an applauſive attention, and conceals his laughter at Non-ſenſe. Silly men much honour and eſteem him, becauſe by his fair reaſoning with them, as men of underſtand<g ref="char:EOLhyphen"/>ing, he puts them into an errone<g ref="char:EOLhyphen"/>ous Opinion of themſelves, and makes them forwarder hereafter to their own diſcovery. He is the Steers-man of his own Deſtiny, Truth is the Goddeſs, and he takes pains to get her, not to look like her: he knows the condition of the world, that he muſt act one thing like another, and then ano<g ref="char:EOLhyphen"/>ther;
+<pb n="99" facs="tcp:64540:61"/> to theſe he carries his de<g ref="char:EOLhyphen"/>ſires and not his deſires him; and ſticks not faſt by the way (for that Contentment is Repentance) but knowing the Circle of all Courſes, of all intents, of all things, to have but one Center or Period, without all diſtraction. Unto the Society of men he is a Sun, whoſe clearneſs directs their ſteps in a regular Mo<g ref="char:EOLhyphen"/>tion; when he is more particular, he is the poor, needy, and wiſe mans Friend, the Example of the indifferent, the Medicine of the vi<g ref="char:EOLhyphen"/>tious: his Bounty is limited by Reaſon, not Oſtentation; and to make it laſt, he deals it diſcreetly, as we ſow the furrow, not by the ſack, but by the handful: his word and his meaning are quadrate, and never ſhake hands and part, but always go together: he can ſurvey good, and love it; and loves to do it himſelf, for its own ſake, not
+<pb n="100" facs="tcp:64540:62"/> for thanks: Nobility lightens in his eyes, and in his face and geſture is painted the God of Hoſpitality: his heart never grows old, no more than his Memory: he paſſeth his time ſo well, that a man cannot ſay that any of it is loſt by him: nor hath he only years to approve he hath lived till he be old, but Vir<g ref="char:EOLhyphen"/>tues.</p>
+               <p>And thus I have given you the Character of the <hi>Fop,</hi> and a true <hi>well-bread Gentleman;</hi> the Life and Converſation of the former, being by all perſons that have any Reaſon left to be ſhunned; the Actions, and Life of the later to be embraced and cheriſhed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64540:62"/>
+            <pb facs="tcp:64540:63" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
